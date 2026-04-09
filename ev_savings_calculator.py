@@ -182,16 +182,38 @@ st.markdown(
     "based on your location's electricity rate and your state's current fuel price (where available)."
 )
 
-with st.sidebar:
-    st.markdown(
-        """
-        <a href="https://www.buymeacoffee.com/catho" target="_blank">
-            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-                 alt="Buy Me A Coffee" style="height: 40px;">
-        </a>
-        """,
-        unsafe_allow_html=True,
-    )
+st.markdown(
+    """
+    <style>
+    .bmc-float {
+        position: fixed;
+        bottom: 80px;
+        right: 0;
+        z-index: 9999;
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        background-color: #FFDD00;
+        color: #000000;
+        font-size: 12px;
+        font-weight: 600;
+        font-family: sans-serif;
+        padding: 12px 6px;
+        border-radius: 8px 0 0 8px;
+        text-decoration: none;
+        box-shadow: -2px 2px 6px rgba(0,0,0,0.2);
+        transition: padding 0.2s ease;
+    }
+    .bmc-float:hover {
+        padding: 12px 10px;
+        color: #000000;
+    }
+    </style>
+    <a class="bmc-float" href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+        ☕ Buy me a coffee
+    </a>
+    """,
+    unsafe_allow_html=True,
+)
  
 # ── Load data ─────────────────────────────────────────────────────────────────
  
