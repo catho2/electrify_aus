@@ -181,6 +181,17 @@ st.markdown(
     "Find out how much you could save annually by switching to an electric vehicle in Australia, "
     "based on your location's electricity rate and your state's current fuel price (where available)."
 )
+
+with st.sidebar:
+    st.markdown(
+        """
+        <a href="https://www.buymeacoffee.com/catho" target="_blank">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+                 alt="Buy Me A Coffee" style="height: 40px;">
+        </a>
+        """,
+        unsafe_allow_html=True,
+    )
  
 # ── Load data ─────────────────────────────────────────────────────────────────
  
