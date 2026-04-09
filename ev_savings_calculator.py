@@ -16,7 +16,6 @@ import pandas as pd
 import re
 import textwrap
 from datetime import datetime
-from streamlit_extras.buy_me_a_coffee import button
 
 # ── Benchmarks ────────────────────────────────────────────────────────────────
 
@@ -386,7 +385,6 @@ if st.button("Calculate my savings ⚡", type="primary", disabled=calculate_disa
 
             f"This is just an experiment! There are lots of things that don't work here but I thought something is better than none"
     )
-    button(username="catho", floating=True, width=220)
  
 elif calculate_disabled:
     st.caption("👆 Please select your state and area type to continue.")
