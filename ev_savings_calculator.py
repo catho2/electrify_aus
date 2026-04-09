@@ -208,7 +208,7 @@ st.markdown(
         color: #000000;
     }
     </style>
-    <a class="bmc-float" href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <a class="bmc-float" href="https://www.buymeacoffee.com/catho" target="_blank">
         ☕ Buy me a coffee
     </a>
     """,
