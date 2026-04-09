@@ -1,0 +1,2642 @@
+POSTCODE,STATE,STATE_CODE,AREA_TYPE,SA4_NAME_2021,SA4_CODE_2021,SA2_NAME_2021
+0800,NT,7,regional,Darwin,701,Darwin City
+0810,NT,7,regional,Darwin,701,Lyons (NT)
+0812,NT,7,regional,Darwin,701,Karama
+0820,NT,7,regional,Darwin,701,Stuart Park
+0822,NT,7,regional,Northern Territory - Outback,702,East Arnhem
+0828,NT,7,regional,Darwin,701,Berrimah
+0829,NT,7,regional,Darwin,701,Howard Springs
+0830,NT,7,regional,Darwin,701,Durack - Marlow Lagoon
+0832,NT,7,regional,Darwin,701,Rosebery - Bellamack
+0834,NT,7,regional,Darwin,701,Virginia
+0835,NT,7,regional,Darwin,701,Howard Springs
+0836,NT,7,regional,Darwin,701,Humpty Doo
+0837,NT,7,regional,Darwin,701,Weddell
+0838,NT,7,regional,Darwin,701,Weddell
+0839,NT,7,regional,Darwin,701,Virginia
+0840,NT,7,regional,Northern Territory - Outback,702,Alligator
+0841,NT,7,regional,Darwin,701,Weddell
+0845,NT,7,regional,Northern Territory - Outback,702,Alligator
+0846,NT,7,regional,Northern Territory - Outback,702,Alligator
+0847,NT,7,regional,Northern Territory - Outback,702,Daly
+0850,NT,7,regional,Northern Territory - Outback,702,Katherine
+0852,NT,7,regional,Northern Territory - Outback,702,Victoria River
+0853,NT,7,regional,Northern Territory - Outback,702,Katherine
+0854,NT,7,regional,Northern Territory - Outback,702,Gulf
+0860,NT,7,regional,Northern Territory - Outback,702,Tennant Creek
+0862,NT,7,regional,Northern Territory - Outback,702,Barkly
+0870,NT,7,regional,Northern Territory - Outback,702,East Side
+0872,NT,7,regional,Northern Territory - Outback,702,Sandover - Plenty
+0873,NT,7,regional,Northern Territory - Outback,702,Ross
+0874,NT,7,regional,Northern Territory - Outback,702,Mount Johns
+0875,NT,7,regional,Northern Territory - Outback,702,Larapinta
+0880,NT,7,regional,Northern Territory - Outback,702,Nhulunbuy
+0885,NT,7,regional,Northern Territory - Outback,702,Anindilyakwa
+0886,NT,7,regional,Northern Territory - Outback,702,Alligator
+2000,NSW,1,metro,Sydney - City and Inner South,117,Sydney (South) - Haymarket
+2007,NSW,1,metro,Sydney - City and Inner South,117,Ultimo
+2008,NSW,1,metro,Sydney - City and Inner South,117,Chippendale
+2009,NSW,1,metro,Sydney - City and Inner South,117,Pyrmont
+2010,NSW,1,metro,Sydney - City and Inner South,117,Surry Hills
+2011,NSW,1,metro,Sydney - City and Inner South,117,Potts Point - Woolloomooloo
+2015,NSW,1,metro,Sydney - City and Inner South,117,Erskineville - Alexandria
+2016,NSW,1,metro,Sydney - City and Inner South,117,Redfern
+2017,NSW,1,metro,Sydney - City and Inner South,117,Waterloo
+2018,NSW,1,metro,Sydney - City and Inner South,117,Rosebery - Beaconsfield
+2019,NSW,1,metro,Sydney - City and Inner South,117,Botany
+2020,NSW,1,metro,Sydney - City and Inner South,117,Mascot
+2021,NSW,1,metro,Sydney - Eastern Suburbs,118,Paddington - Moore Park
+2022,NSW,1,metro,Sydney - Eastern Suburbs,118,Bondi Junction - Waverly
+2023,NSW,1,metro,Sydney - Eastern Suburbs,118,Bellevue Hill
+2024,NSW,1,metro,Sydney - Eastern Suburbs,118,Bondi - Tamarama - Bronte
+2025,NSW,1,metro,Sydney - Eastern Suburbs,118,Woollahra
+2026,NSW,1,metro,Sydney - Eastern Suburbs,118,Bondi Beach - North Bondi
+2027,NSW,1,metro,Sydney - Eastern Suburbs,118,Double Bay - Darling Point
+2028,NSW,1,metro,Sydney - Eastern Suburbs,118,Double Bay - Darling Point
+2029,NSW,1,metro,Sydney - Eastern Suburbs,118,Rose Bay - Vaucluse - Watsons Bay
+2030,NSW,1,metro,Sydney - Eastern Suburbs,118,Rose Bay - Vaucluse - Watsons Bay
+2031,NSW,1,metro,Sydney - Eastern Suburbs,118,Randwick - North
+2032,NSW,1,metro,Sydney - Eastern Suburbs,118,Kingsford
+2033,NSW,1,metro,Sydney - Eastern Suburbs,118,Kensington (NSW)
+2034,NSW,1,metro,Sydney - Eastern Suburbs,118,Coogee - Clovelly
+2035,NSW,1,metro,Sydney - Eastern Suburbs,118,Maroubra - South
+2036,NSW,1,metro,Sydney - Eastern Suburbs,118,Matraville - Chifley
+2037,NSW,1,metro,Sydney - City and Inner South,117,Glebe - Forest Lodge
+2038,NSW,1,metro,Sydney - Inner West,120,Annandale (NSW)
+2039,NSW,1,metro,Sydney - Inner West,120,Lilyfield - Rozelle
+2040,NSW,1,metro,Sydney - Inner West,120,Leichhardt
+2041,NSW,1,metro,Sydney - Inner West,120,Balmain
+2042,NSW,1,metro,Sydney - City and Inner South,117,Newtown (NSW)
+2043,NSW,1,metro,Sydney - City and Inner South,117,Erskineville - Alexandria
+2044,NSW,1,metro,Sydney - City and Inner South,117,Sydenham - Tempe - St Peters
+2045,NSW,1,metro,Sydney - Inner West,120,Haberfield - Summer Hill
+2046,NSW,1,metro,Sydney - Inner West,120,Five Dock - Abbotsford
+2047,NSW,1,metro,Sydney - Inner West,120,Drummoyne - Rodd Point
+2048,NSW,1,metro,Sydney - City and Inner South,117,Petersham - Stanmore
+2049,NSW,1,metro,Sydney - City and Inner South,117,Petersham - Stanmore
+2050,NSW,1,metro,Sydney - City and Inner South,117,Camperdown - Darlington
+2060,NSW,1,metro,Sydney - North Sydney and Hornsby,121,North Sydney - Lavender Bay
+2061,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Neutral Bay - Kirribilli
+2062,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Cremorne - Cammeray
+2063,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Castle Cove - Northbridge
+2064,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Artarmon
+2065,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Crows Nest - Waverton
+2066,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Lane Cove
+2067,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Chatswood - East
+2068,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Willoughby
+2069,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Lindfield - Roseville
+2070,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Lindfield - Roseville
+2071,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Gordon - Killara
+2072,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Gordon - Killara
+2073,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Pymble
+2074,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Turramurra
+2075,NSW,1,metro,Sydney - North Sydney and Hornsby,121,St Ives
+2076,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Wahroonga (East) - Warrawee
+2077,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Asquith - Mount Colah
+2079,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Asquith - Mount Colah
+2080,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Asquith - Mount Colah
+2081,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Berowra - Brooklyn - Cowan
+2082,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Berowra - Brooklyn - Cowan
+2083,NSW,1,regional,Sydney - North Sydney and Hornsby,121,Berowra - Brooklyn - Cowan
+2084,NSW,1,metro,Sydney - Northern Beaches,122,Terrey Hills - Duffys Forest
+2085,NSW,1,metro,Sydney - Northern Beaches,122,Belrose
+2086,NSW,1,metro,Sydney - Northern Beaches,122,Frenchs Forest - Oxford Falls
+2087,NSW,1,metro,Sydney - Northern Beaches,122,Forestville - Killarney Heights
+2088,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Mosman - South
+2089,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Neutral Bay - Kirribilli
+2090,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Cremorne - Cammeray
+2092,NSW,1,metro,Sydney - Northern Beaches,122,Balgowlah - Clontarf - Seaforth
+2093,NSW,1,metro,Sydney - Northern Beaches,122,Balgowlah - Clontarf - Seaforth
+2094,NSW,1,metro,Sydney - Northern Beaches,122,Manly - Fairlight
+2095,NSW,1,metro,Sydney - Northern Beaches,122,Manly - Fairlight
+2096,NSW,1,metro,Sydney - Northern Beaches,122,Freshwater - Brookvale
+2097,NSW,1,metro,Sydney - Northern Beaches,122,Collaroy - Collaroy Plateau
+2099,NSW,1,metro,Sydney - Northern Beaches,122,Dee Why - North
+2100,NSW,1,metro,Sydney - Northern Beaches,122,Beacon Hill - Narraweena
+2101,NSW,1,metro,Sydney - Northern Beaches,122,Narrabeen - Wheeler Heights
+2102,NSW,1,metro,Sydney - Northern Beaches,122,North Narrabeen - Warriewood (South)
+2103,NSW,1,metro,Sydney - Northern Beaches,122,Mona Vale - Warriewood (North)
+2104,NSW,1,metro,Sydney - Northern Beaches,122,Bayview - Elanora Heights
+2105,NSW,1,metro,Sydney - Northern Beaches,122,Bayview - Elanora Heights
+2106,NSW,1,metro,Sydney - Northern Beaches,122,Newport - Bilgola
+2107,NSW,1,metro,Sydney - Northern Beaches,122,Avalon - Palm Beach
+2108,NSW,1,metro,Sydney - Northern Beaches,122,Avalon - Palm Beach
+2110,NSW,1,metro,Sydney - Ryde,126,Hunters Hill - Woolwich
+2111,NSW,1,metro,Sydney - Ryde,126,Gladesville - Huntleys Point
+2112,NSW,1,metro,Sydney - Ryde,126,Ryde - North
+2113,NSW,1,metro,Sydney - Ryde,126,North Ryde - East Ryde
+2114,NSW,1,metro,Sydney - Ryde,126,West Ryde - Meadowbank
+2115,NSW,1,metro,Sydney - Parramatta,125,Ermington - Rydalmere
+2116,NSW,1,metro,Sydney - Parramatta,125,Ermington - Rydalmere
+2117,NSW,1,metro,Sydney - Parramatta,125,Oatlands - Dundas Valley
+2118,NSW,1,metro,Sydney - Parramatta,125,Carlingford - West
+2119,NSW,1,metro,Sydney - Ryde,126,Pennant Hills - Cheltenham
+2120,NSW,1,metro,Sydney - North Sydney and Hornsby,121,Normanhurst - Thornleigh - Westleigh
+2121,NSW,1,metro,Sydney - Ryde,126,Epping (NSW) - West
+2122,NSW,1,metro,Sydney - Ryde,126,Eastwood
+2125,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,West Pennant Hills
+2126,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Cherrybrook
+2127,NSW,1,metro,Sydney - Parramatta,125,Wentworth Point - Sydney Olympic Park
+2128,NSW,1,metro,Sydney - Parramatta,125,Silverwater - Newington
+2130,NSW,1,metro,Sydney - Inner West,120,Haberfield - Summer Hill
+2131,NSW,1,metro,Sydney - Inner West,120,Ashfield - North
+2132,NSW,1,metro,Sydney - Inner West,120,Croydon
+2133,NSW,1,metro,Sydney - Inner West,120,Croydon Park - Enfield
+2134,NSW,1,metro,Sydney - Inner West,120,Burwood (NSW)
+2135,NSW,1,metro,Sydney - Inner West,120,Strathfield - East
+2136,NSW,1,metro,Sydney - Inner West,120,Croydon Park - Enfield
+2137,NSW,1,metro,Sydney - Inner West,120,Concord - Mortlake - Cabarita
+2138,NSW,1,metro,Sydney - Inner West,120,Rhodes
+2140,NSW,1,metro,Sydney - Inner West,120,Homebush
+2141,NSW,1,metro,Sydney - Parramatta,125,Lidcombe
+2142,NSW,1,metro,Sydney - Parramatta,125,Granville - Clyde
+2143,NSW,1,metro,Sydney - Parramatta,125,Regents Park
+2144,NSW,1,metro,Sydney - Parramatta,125,Auburn - Central
+2145,NSW,1,metro,Sydney - Parramatta,125,Wentworthville - Westmead
+2146,NSW,1,metro,Sydney - Parramatta,125,Toongabbie - Constitution Hill
+2147,NSW,1,metro,Sydney - Blacktown,116,Lalor Park - Kings Langley
+2148,NSW,1,metro,Sydney - Blacktown,116,Blacktown (East) - Kings Park
+2150,NSW,1,metro,Sydney - Parramatta,125,Parramatta - North
+2151,NSW,1,metro,Sydney - Parramatta,125,North Parramatta
+2152,NSW,1,metro,Sydney - Parramatta,125,Northmead
+2153,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Baulkham Hills - East
+2154,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Castle Hill - North
+2155,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Kellyville - East
+2156,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Dural - Kenthurst - Wisemans Ferry
+2157,NSW,1,regional,Sydney - Baulkham Hills and Hawkesbury,115,Dural - Kenthurst - Wisemans Ferry
+2158,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Dural - Kenthurst - Wisemans Ferry
+2159,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Galston - Laughtondale
+2160,NSW,1,metro,Sydney - Parramatta,125,Merrylands - Holroyd
+2161,NSW,1,metro,Sydney - Parramatta,125,Guildford - South Granville
+2162,NSW,1,metro,Sydney - Parramatta,125,Chester Hill - Sefton
+2163,NSW,1,metro,Sydney - Parramatta,125,Fairfield - East
+2164,NSW,1,metro,Sydney - South West,127,Smithfield - Wetherill Park
+2165,NSW,1,metro,Sydney - South West,127,Fairfield - West
+2166,NSW,1,metro,Sydney - South West,127,Cabramatta - Lansvale
+2167,NSW,1,metro,Sydney - Outer South West,123,Glenfield
+2168,NSW,1,metro,Sydney - South West,127,Ashcroft - Busby - Miller
+2170,NSW,1,metro,Sydney - South West,127,Chipping Norton - Moorebank
+2171,NSW,1,metro,Sydney - South West,127,West Hoxton - Middleton Grange
+2172,NSW,1,metro,Sydney - South West,127,Holsworthy - Wattle Grove
+2173,NSW,1,metro,Sydney - South West,127,Holsworthy - Wattle Grove
+2174,NSW,1,metro,Sydney - South West,127,Edmondson Park
+2175,NSW,1,metro,Sydney - South West,127,Horsley Park - Kemps Creek
+2176,NSW,1,metro,Sydney - South West,127,Bossley Park - Abbotsbury
+2177,NSW,1,metro,Sydney - South West,127,Bonnyrigg Heights - Bonnyrigg
+2178,NSW,1,metro,Sydney - South West,127,Horsley Park - Kemps Creek
+2179,NSW,1,metro,Sydney - South West,127,Leppington - Catherine Field
+2190,NSW,1,metro,Sydney - Inner South West,119,Greenacre - North
+2191,NSW,1,metro,Sydney - Inner South West,119,Belmore - Belfield
+2192,NSW,1,metro,Sydney - Inner South West,119,Belmore - Belfield
+2193,NSW,1,metro,Sydney - Inner West,120,Canterbury (North) - Ashbury
+2194,NSW,1,metro,Sydney - Inner South West,119,Campsie - North
+2195,NSW,1,metro,Sydney - Inner South West,119,Lakemba
+2196,NSW,1,metro,Sydney - Inner South West,119,Punchbowl
+2197,NSW,1,metro,Sydney - Inner South West,119,Bass Hill - Georges Hall
+2198,NSW,1,metro,Sydney - Inner South West,119,Bass Hill - Georges Hall
+2199,NSW,1,metro,Sydney - Inner South West,119,Yagoona - Birrong
+2200,NSW,1,metro,Sydney - Inner South West,119,Bankstown - South
+2203,NSW,1,metro,Sydney - Inner West,120,Dulwich Hill - Lewisham
+2204,NSW,1,metro,Sydney - City and Inner South,117,Marrickville - South
+2205,NSW,1,metro,Sydney - Inner South West,119,Arncliffe - Bardwell Valley
+2206,NSW,1,metro,Sydney - Inner South West,119,Earlwood
+2207,NSW,1,metro,Sydney - Inner South West,119,Bexley - North
+2208,NSW,1,metro,Sydney - Inner South West,119,Kingsgrove (South) - Bardwell Park
+2209,NSW,1,metro,Sydney - Inner South West,119,Narwee - Beverly Hills
+2210,NSW,1,metro,Sydney - Inner South West,119,Peakhurst - Lugarno
+2211,NSW,1,metro,Sydney - Inner South West,119,Padstow
+2212,NSW,1,metro,Sydney - Inner South West,119,Revesby
+2213,NSW,1,metro,Sydney - Inner South West,119,Panania (South) - Picnic Point
+2214,NSW,1,metro,Sydney - Inner South West,119,Panania (North) - Milperra
+2216,NSW,1,metro,Sydney - Inner South West,119,Rockdale - Banksia
+2217,NSW,1,metro,Sydney - Inner South West,119,Kogarah
+2218,NSW,1,metro,Sydney - Inner South West,119,Kogarah Bay - Carlton - Allawah
+2219,NSW,1,metro,Sydney - Inner South West,119,Sans Souci - Ramsgate
+2220,NSW,1,metro,Sydney - Inner South West,119,Hurstville - North
+2221,NSW,1,metro,Sydney - Inner South West,119,South Hurstville - Blakehurst
+2222,NSW,1,metro,Sydney - Inner South West,119,Penshurst
+2223,NSW,1,metro,Sydney - Inner South West,119,Mortdale - Oatley
+2224,NSW,1,metro,Sydney - Sutherland,128,Sylvania - Taren Point
+2225,NSW,1,metro,Sydney - Sutherland,128,Oyster Bay - Como - Jannali
+2226,NSW,1,metro,Sydney - Sutherland,128,Oyster Bay - Como - Jannali
+2227,NSW,1,metro,Sydney - Sutherland,128,Gymea - Grays Point
+2228,NSW,1,metro,Sydney - Sutherland,128,Miranda - Yowie Bay
+2229,NSW,1,metro,Sydney - Sutherland,128,Caringbah South
+2230,NSW,1,metro,Sydney - Sutherland,128,Cronulla - Kurnell - Bundeena
+2231,NSW,1,metro,Sydney - Sutherland,128,Cronulla - Kurnell - Bundeena
+2232,NSW,1,metro,Sydney - Sutherland,128,Sutherland - Kirrawee
+2233,NSW,1,metro,Sydney - Sutherland,128,Engadine
+2234,NSW,1,metro,Sydney - Sutherland,128,Menai - Lucas Heights - Woronora
+2250,NSW,1,metro,Central Coast,102,Gosford - Springfield
+2251,NSW,1,metro,Central Coast,102,Kincumber - Picketts Valley
+2256,NSW,1,metro,Central Coast,102,Woy Woy - Blackwall
+2257,NSW,1,metro,Central Coast,102,Umina - Booker Bay - Patonga
+2258,NSW,1,metro,Central Coast,102,Ourimbah - Fountaindale
+2259,NSW,1,metro,Central Coast,102,Warnervale - Wadalba
+2260,NSW,1,metro,Central Coast,102,Terrigal - North Avoca
+2261,NSW,1,metro,Central Coast,102,Bateau Bay - Killarney Vale
+2262,NSW,1,metro,Central Coast,102,Blue Haven - San Remo
+2263,NSW,1,metro,Central Coast,102,Gorokan - Kanwal - Charmhaven
+2264,NSW,1,metro,Newcastle and Lake Macquarie,111,Bonnells Bay - Silverwater
+2265,NSW,1,metro,Newcastle and Lake Macquarie,111,Morisset - Cooranbong
+2267,NSW,1,metro,Newcastle and Lake Macquarie,111,Wangi Wangi - Rathmines
+2278,NSW,1,metro,Newcastle and Lake Macquarie,111,West Wallsend - Barnsley - Killingworth
+2280,NSW,1,metro,Newcastle and Lake Macquarie,111,Belmont - Bennetts Green
+2281,NSW,1,metro,Newcastle and Lake Macquarie,111,Swansea - Caves Beach
+2282,NSW,1,metro,Newcastle and Lake Macquarie,111,Warners Bay - Boolaroo
+2283,NSW,1,metro,Newcastle and Lake Macquarie,111,Toronto - Awaba
+2284,NSW,1,metro,Newcastle and Lake Macquarie,111,Bolton Point - Teralba
+2285,NSW,1,metro,Newcastle and Lake Macquarie,111,Glendale - Cardiff - Hillsborough
+2286,NSW,1,metro,Newcastle and Lake Macquarie,111,West Wallsend - Barnsley - Killingworth
+2287,NSW,1,metro,Newcastle and Lake Macquarie,111,Wallsend - Elermore Vale
+2289,NSW,1,metro,Newcastle and Lake Macquarie,111,Adamstown - Kotara
+2290,NSW,1,metro,Newcastle and Lake Macquarie,111,Charlestown - Dudley
+2291,NSW,1,metro,Newcastle and Lake Macquarie,111,Merewether - The Junction
+2292,NSW,1,metro,Newcastle and Lake Macquarie,111,Hamilton - Broadmeadow
+2293,NSW,1,metro,Newcastle and Lake Macquarie,111,Wickham - Carrington - Tighes Hill
+2294,NSW,1,metro,Newcastle and Lake Macquarie,111,Wickham - Carrington - Tighes Hill
+2295,NSW,1,metro,Newcastle and Lake Macquarie,111,Stockton - Fullerton Cove
+2296,NSW,1,metro,Newcastle and Lake Macquarie,111,Wickham - Carrington - Tighes Hill
+2297,NSW,1,metro,Newcastle and Lake Macquarie,111,Wickham - Carrington - Tighes Hill
+2298,NSW,1,metro,Newcastle and Lake Macquarie,111,Waratah - North Lambton
+2299,NSW,1,metro,Newcastle and Lake Macquarie,111,Lambton - New Lambton
+2300,NSW,1,metro,Newcastle and Lake Macquarie,111,Newcastle - Cooks Hill
+2302,NSW,1,metro,Newcastle and Lake Macquarie,111,Newcastle - Cooks Hill
+2303,NSW,1,metro,Newcastle and Lake Macquarie,111,Hamilton - Broadmeadow
+2304,NSW,1,metro,Newcastle and Lake Macquarie,111,Mayfield - Warabrook
+2305,NSW,1,metro,Newcastle and Lake Macquarie,111,Lambton - New Lambton
+2306,NSW,1,metro,Newcastle and Lake Macquarie,111,Mount Hutton - Windale
+2307,NSW,1,metro,Newcastle and Lake Macquarie,111,Shortland - Jesmond
+2308,NSW,1,metro,Newcastle and Lake Macquarie,111,Shortland - Jesmond
+2311,NSW,1,regional,Hunter Valley exc Newcastle,106,Dungog
+2312,NSW,1,regional,Mid North Coast,108,Forster-Tuncurry Surrounds
+2315,NSW,1,regional,Hunter Valley exc Newcastle,106,Nelson Bay Peninsula
+2316,NSW,1,regional,Hunter Valley exc Newcastle,106,Anna Bay
+2317,NSW,1,regional,Hunter Valley exc Newcastle,106,Nelson Bay Peninsula
+2318,NSW,1,regional,Hunter Valley exc Newcastle,106,Williamtown - Medowie - Karuah
+2319,NSW,1,regional,Hunter Valley exc Newcastle,106,Lemon Tree Passage - Tanilba Bay
+2320,NSW,1,metro,Hunter Valley exc Newcastle,106,Rutherford (North) - Aberglasslyn
+2321,NSW,1,metro,Hunter Valley exc Newcastle,106,Kurri Kurri - Abermain
+2322,NSW,1,metro,Hunter Valley exc Newcastle,106,Thornton - Millers Forest
+2323,NSW,1,metro,Hunter Valley exc Newcastle,106,East Maitland - Metford
+2324,NSW,1,metro,Hunter Valley exc Newcastle,106,Raymond Terrace
+2325,NSW,1,metro,Hunter Valley exc Newcastle,106,Cessnock
+2326,NSW,1,metro,Hunter Valley exc Newcastle,106,Kurri Kurri - Abermain
+2327,NSW,1,metro,Hunter Valley exc Newcastle,106,Kurri Kurri - Abermain
+2328,NSW,1,regional,Hunter Valley exc Newcastle,106,Muswellbrook Surrounds
+2329,NSW,1,regional,Hunter Valley exc Newcastle,106,Scone Surrounds
+2330,NSW,1,regional,Hunter Valley exc Newcastle,106,Singleton
+2331,NSW,1,regional,Hunter Valley exc Newcastle,106,Singleton
+2333,NSW,1,regional,Hunter Valley exc Newcastle,106,Muswellbrook
+2334,NSW,1,regional,Hunter Valley exc Newcastle,106,Branxton - Greta - Pokolbin
+2335,NSW,1,regional,Hunter Valley exc Newcastle,106,Branxton - Greta - Pokolbin
+2336,NSW,1,regional,Hunter Valley exc Newcastle,106,Scone Surrounds
+2337,NSW,1,regional,Hunter Valley exc Newcastle,106,Scone
+2338,NSW,1,regional,Hunter Valley exc Newcastle,106,Scone Surrounds
+2339,NSW,1,regional,New England and North West,110,Quirindi
+2340,NSW,1,regional,New England and North West,110,Tamworth - East
+2341,NSW,1,regional,New England and North West,110,Quirindi
+2342,NSW,1,regional,New England and North West,110,Quirindi
+2343,NSW,1,regional,New England and North West,110,Quirindi
+2344,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2345,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2346,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2347,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2350,NSW,1,regional,New England and North West,110,Armidale
+2352,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2353,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2354,NSW,1,regional,New England and North West,110,Walcha
+2355,NSW,1,regional,New England and North West,110,Tamworth Surrounds
+2356,NSW,1,regional,New England and North West,110,Narrabri Surrounds
+2357,NSW,1,regional,Far West and Orana,105,Coonabarabran
+2358,NSW,1,regional,New England and North West,110,Armidale Surrounds - South
+2359,NSW,1,regional,New England and North West,110,Inverell Surrounds - East
+2360,NSW,1,regional,New England and North West,110,Inverell
+2361,NSW,1,regional,New England and North West,110,Inverell Surrounds - East
+2365,NSW,1,regional,New England and North West,110,Armidale Surrounds - North
+2369,NSW,1,regional,New England and North West,110,Inverell Surrounds - East
+2370,NSW,1,regional,New England and North West,110,Glen Innes
+2371,NSW,1,regional,New England and North West,110,Glen Innes
+2372,NSW,1,regional,New England and North West,110,Tenterfield
+2379,NSW,1,regional,New England and North West,110,Gunnedah Surrounds
+2380,NSW,1,regional,New England and North West,110,Gunnedah
+2381,NSW,1,regional,New England and North West,110,Gunnedah Surrounds
+2382,NSW,1,regional,New England and North West,110,Gunnedah Surrounds
+2386,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2387,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2388,NSW,1,regional,New England and North West,110,Narrabri Surrounds
+2390,NSW,1,regional,New England and North West,110,Narrabri
+2395,NSW,1,regional,Far West and Orana,105,Coonabarabran
+2396,NSW,1,regional,Far West and Orana,105,Coonabarabran
+2397,NSW,1,regional,New England and North West,110,Narrabri Surrounds
+2398,NSW,1,regional,New England and North West,110,Moree Surrounds
+2399,NSW,1,regional,New England and North West,110,Moree Surrounds
+2400,NSW,1,regional,New England and North West,110,Moree
+2401,NSW,1,regional,New England and North West,110,Inverell Surrounds - West
+2402,NSW,1,regional,New England and North West,110,Inverell Surrounds - West
+2403,NSW,1,regional,New England and North West,110,Inverell Surrounds - West
+2404,NSW,1,regional,New England and North West,110,Inverell Surrounds - West
+2405,NSW,1,regional,New England and North West,110,Moree Surrounds
+2406,NSW,1,regional,New England and North West,110,Moree Surrounds
+2408,NSW,1,regional,New England and North West,110,Moree Surrounds
+2409,NSW,1,regional,New England and North West,110,Moree Surrounds
+2410,NSW,1,regional,New England and North West,110,Inverell Surrounds - East
+2411,NSW,1,regional,New England and North West,110,Moree Surrounds
+2415,NSW,1,regional,Mid North Coast,108,Bulahdelah - Stroud
+2420,NSW,1,regional,Hunter Valley exc Newcastle,106,Dungog
+2421,NSW,1,regional,Hunter Valley exc Newcastle,106,Dungog
+2422,NSW,1,regional,Mid North Coast,108,Gloucester
+2423,NSW,1,regional,Mid North Coast,108,Bulahdelah - Stroud
+2424,NSW,1,regional,Mid North Coast,108,Taree Surrounds
+2425,NSW,1,regional,Mid North Coast,108,Bulahdelah - Stroud
+2426,NSW,1,regional,Mid North Coast,108,Taree Surrounds
+2427,NSW,1,regional,Mid North Coast,108,Taree Surrounds
+2428,NSW,1,regional,Mid North Coast,108,Forster
+2429,NSW,1,regional,Mid North Coast,108,Wingham
+2430,NSW,1,regional,Mid North Coast,108,Taree
+2431,NSW,1,regional,Mid North Coast,108,South West Rocks
+2439,NSW,1,regional,Mid North Coast,108,Laurieton - Bonny Hills
+2440,NSW,1,regional,Mid North Coast,108,Kempsey
+2441,NSW,1,regional,Mid North Coast,108,Kempsey Surrounds
+2443,NSW,1,regional,Mid North Coast,108,Laurieton - Bonny Hills
+2444,NSW,1,regional,Mid North Coast,108,Port Macquarie - West
+2445,NSW,1,regional,Mid North Coast,108,Laurieton - Bonny Hills
+2446,NSW,1,regional,Mid North Coast,108,Wauchope
+2447,NSW,1,regional,Mid North Coast,108,Macksville - Scotts Head
+2448,NSW,1,regional,Mid North Coast,108,Nambucca Heads
+2449,NSW,1,regional,Mid North Coast,108,Nambucca Heads Surrounds
+2450,NSW,1,regional,Coffs Harbour - Grafton,104,Coffs Harbour - North
+2452,NSW,1,regional,Coffs Harbour - Grafton,104,Sawtell - Boambee
+2453,NSW,1,regional,Coffs Harbour - Grafton,104,Dorrigo
+2454,NSW,1,regional,Coffs Harbour - Grafton,104,Bellingen
+2455,NSW,1,regional,Coffs Harbour - Grafton,104,Urunga
+2456,NSW,1,regional,Coffs Harbour - Grafton,104,Woolgoolga - Arrawarra
+2460,NSW,1,regional,Coffs Harbour - Grafton,104,Grafton
+2462,NSW,1,regional,Coffs Harbour - Grafton,104,Grafton Surrounds
+2463,NSW,1,regional,Coffs Harbour - Grafton,104,Maclean - Yamba - Iluka
+2464,NSW,1,regional,Coffs Harbour - Grafton,104,Maclean - Yamba - Iluka
+2465,NSW,1,regional,Coffs Harbour - Grafton,104,Maclean - Yamba - Iluka
+2466,NSW,1,regional,Coffs Harbour - Grafton,104,Maclean - Yamba - Iluka
+2469,NSW,1,regional,Richmond - Tweed,112,Casino Surrounds
+2470,NSW,1,regional,Richmond - Tweed,112,Casino
+2471,NSW,1,regional,Richmond - Tweed,112,Casino Surrounds
+2472,NSW,1,regional,Richmond - Tweed,112,Evans Head
+2473,NSW,1,regional,Richmond - Tweed,112,Evans Head
+2474,NSW,1,regional,Richmond - Tweed,112,Kyogle
+2475,NSW,1,regional,New England and North West,110,Tenterfield
+2476,NSW,1,regional,Richmond - Tweed,112,Kyogle
+2477,NSW,1,regional,Richmond - Tweed,112,Ballina Surrounds
+2478,NSW,1,regional,Richmond - Tweed,112,Ballina
+2479,NSW,1,regional,Richmond - Tweed,112,Bangalow
+2480,NSW,1,regional,Richmond - Tweed,112,Lismore
+2481,NSW,1,regional,Richmond - Tweed,112,Byron Bay
+2482,NSW,1,regional,Richmond - Tweed,112,Mullumbimby
+2483,NSW,1,regional,Richmond - Tweed,112,Brunswick Heads - Ocean Shores
+2484,NSW,1,regional,Richmond - Tweed,112,Murwillumbah Surrounds
+2485,NSW,1,metro,Richmond - Tweed,112,Tweed Heads
+2486,NSW,1,metro,Richmond - Tweed,112,Banora Point
+2487,NSW,1,metro,Richmond - Tweed,112,Kingscliff - Fingal Head
+2488,NSW,1,metro,Richmond - Tweed,112,Pottsville
+2489,NSW,1,metro,Richmond - Tweed,112,Pottsville
+2490,NSW,1,metro,Richmond - Tweed,112,Murwillumbah Surrounds
+2500,NSW,1,metro,Illawarra,107,Wollongong - West
+2502,NSW,1,metro,Illawarra,107,Berkeley - Lake Heights - Cringila
+2505,NSW,1,metro,Illawarra,107,Port Kembla - Warrawong
+2506,NSW,1,metro,Illawarra,107,Berkeley - Lake Heights - Cringila
+2508,NSW,1,metro,Illawarra,107,Helensburgh
+2515,NSW,1,metro,Illawarra,107,Thirroul - Austinmer - Coalcliff
+2516,NSW,1,metro,Illawarra,107,Woonona - Bulli - Russell Vale
+2517,NSW,1,metro,Illawarra,107,Woonona - Bulli - Russell Vale
+2518,NSW,1,metro,Illawarra,107,Corrimal - Tarrawanna - Bellambi
+2519,NSW,1,metro,Illawarra,107,Balgownie - Fairy Meadow
+2525,NSW,1,metro,Illawarra,107,Figtree - Keiraville
+2526,NSW,1,metro,Illawarra,107,Unanderra - Mount Kembla
+2527,NSW,1,metro,Illawarra,107,Albion Park - Macquarie Pass
+2528,NSW,1,metro,Illawarra,107,Warilla
+2529,NSW,1,metro,Illawarra,107,Shellharbour - Flinders
+2530,NSW,1,metro,Illawarra,107,Dapto - Avondale
+2533,NSW,1,metro,Illawarra,107,Kiama
+2534,NSW,1,regional,Illawarra,107,Kiama Hinterland - Gerringong
+2535,NSW,1,regional,Southern Highlands and Shoalhaven,114,Berry - Kangaroo Valley
+2536,NSW,1,regional,Capital Region,101,Batemans Bay - South
+2537,NSW,1,regional,Capital Region,101,Moruya - Tuross Head
+2538,NSW,1,regional,Southern Highlands and Shoalhaven,114,Ulladulla
+2539,NSW,1,regional,Southern Highlands and Shoalhaven,114,Ulladulla
+2540,NSW,1,regional,Southern Highlands and Shoalhaven,114,St Georges Basin - Erowal Bay
+2541,NSW,1,regional,Southern Highlands and Shoalhaven,114,Nowra
+2545,NSW,1,regional,Capital Region,101,Eurobodalla Hinterland
+2546,NSW,1,regional,Capital Region,101,Narooma - Bermagui
+2548,NSW,1,regional,Capital Region,101,Merimbula - Tura Beach
+2549,NSW,1,regional,Capital Region,101,Merimbula - Tura Beach
+2550,NSW,1,regional,Capital Region,101,Bega - Tathra
+2551,NSW,1,regional,Capital Region,101,Eden
+2555,NSW,1,metro,Sydney - South West,127,Austral - Greendale
+2556,NSW,1,metro,Sydney - South West,127,Austral - Greendale
+2557,NSW,1,metro,Sydney - South West,127,Gledswood Hills - Gregory Hills
+2558,NSW,1,metro,Sydney - Outer South West,123,Claymore - Eagle Vale - Raby
+2559,NSW,1,metro,Sydney - Outer South West,123,Claymore - Eagle Vale - Raby
+2560,NSW,1,metro,Sydney - Outer South West,123,Campbelltown - Woodbine
+2563,NSW,1,metro,Sydney - Outer South West,123,Rosemeadow - Glen Alpine
+2564,NSW,1,metro,Sydney - Outer South West,123,Macquarie Fields
+2565,NSW,1,metro,Sydney - Outer South West,123,Ingleburn
+2566,NSW,1,metro,Sydney - Outer South West,123,Minto - St Andrews
+2567,NSW,1,metro,Sydney - Outer South West,123,Mount Annan
+2568,NSW,1,metro,Sydney - Outer South West,123,Douglas Park - Appin
+2569,NSW,1,regional,Sydney - Outer South West,123,Douglas Park - Appin
+2570,NSW,1,metro,Sydney - Outer South West,123,Oran Park
+2571,NSW,1,regional,Sydney - Outer South West,123,Picton - Tahmoor - Buxton
+2572,NSW,1,regional,Sydney - Outer South West,123,Picton - Tahmoor - Buxton
+2573,NSW,1,regional,Sydney - Outer South West,123,Picton - Tahmoor - Buxton
+2574,NSW,1,regional,Sydney - Outer South West,123,Bargo
+2575,NSW,1,regional,Southern Highlands and Shoalhaven,114,Mittagong
+2576,NSW,1,regional,Southern Highlands and Shoalhaven,114,Bowral
+2577,NSW,1,regional,Southern Highlands and Shoalhaven,114,Moss Vale - Berrima
+2578,NSW,1,regional,Southern Highlands and Shoalhaven,114,Southern Highlands
+2579,NSW,1,regional,Capital Region,101,Goulburn Surrounds
+2580,NSW,1,regional,Capital Region,101,Goulburn
+2581,NSW,1,regional,Capital Region,101,Yass Surrounds
+2582,NSW,1,regional,Capital Region,101,Yass Surrounds
+2583,NSW,1,regional,Capital Region,101,Goulburn Surrounds
+2584,NSW,1,regional,Capital Region,101,Yass Surrounds
+2585,NSW,1,regional,Capital Region,101,Young Surrounds
+2586,NSW,1,regional,Capital Region,101,Young Surrounds
+2587,NSW,1,regional,Capital Region,101,Young Surrounds
+2588,NSW,1,regional,Riverina,113,Cootamundra
+2590,NSW,1,regional,Riverina,113,Cootamundra
+2594,NSW,1,regional,Capital Region,101,Young
+2600,ACT,8,metro,Australian Capital Territory,801,Deakin
+2601,ACT,8,metro,Australian Capital Territory,801,Civic
+2602,ACT,8,metro,Australian Capital Territory,801,Watson
+2603,ACT,8,metro,Australian Capital Territory,801,Griffith (ACT)
+2604,ACT,8,metro,Australian Capital Territory,801,Kingston (ACT)
+2605,ACT,8,metro,Australian Capital Territory,801,Curtin
+2606,ACT,8,metro,Australian Capital Territory,801,Phillip
+2607,ACT,8,metro,Australian Capital Territory,801,Farrer
+2609,ACT,8,metro,Australian Capital Territory,801,Canberra East
+2611,ACT,8,metro,Australian Capital Territory,801,Coombs
+2612,ACT,8,metro,Australian Capital Territory,801,Braddon
+2614,ACT,8,metro,Australian Capital Territory,801,Macquarie
+2615,ACT,8,metro,Australian Capital Territory,801,Dunlop
+2617,ACT,8,metro,Australian Capital Territory,801,Belconnen
+2618,NSW,1,regional,Capital Region,101,Yass Surrounds
+2619,NSW,1,metro,Capital Region,101,Queanbeyan West - Jerrabomberra
+2620,NSW,1,metro,Capital Region,101,Queanbeyan
+2621,NSW,1,regional,Capital Region,101,Queanbeyan Surrounds
+2622,NSW,1,regional,Capital Region,101,Braidwood
+2623,NSW,1,regional,Capital Region,101,Queanbeyan Surrounds
+2624,NSW,1,regional,Capital Region,101,Jindabyne - Berridale
+2625,NSW,1,regional,Capital Region,101,Jindabyne - Berridale
+2626,NSW,1,regional,Capital Region,101,Cooma Surrounds
+2627,NSW,1,regional,Capital Region,101,Jindabyne - Berridale
+2628,NSW,1,regional,Capital Region,101,Jindabyne - Berridale
+2629,NSW,1,regional,Capital Region,101,Cooma Surrounds
+2630,NSW,1,regional,Capital Region,101,Cooma
+2631,NSW,1,regional,Capital Region,101,Cooma Surrounds
+2632,NSW,1,regional,Capital Region,101,Bombala
+2633,NSW,1,regional,Capital Region,101,Bombala
+2640,NSW,1,regional,Murray,109,Albury - East
+2641,NSW,1,regional,Murray,109,Lavington
+2642,NSW,1,regional,Murray,109,Albury Surrounds
+2643,NSW,1,regional,Murray,109,Corowa Surrounds
+2644,NSW,1,regional,Murray,109,Albury Surrounds
+2645,NSW,1,regional,Murray,109,Corowa Surrounds
+2646,NSW,1,regional,Murray,109,Corowa
+2647,NSW,1,regional,Murray,109,Corowa Surrounds
+2648,NSW,1,regional,Murray,109,Wentworth - Buronga
+2649,NSW,1,regional,Riverina,113,Tumbarumba
+2650,NSW,1,regional,Riverina,113,Wagga Wagga - South
+2651,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2652,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2653,NSW,1,regional,Riverina,113,Tumbarumba
+2655,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2656,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2658,NSW,1,regional,Murray,109,Albury Surrounds
+2659,NSW,1,regional,Murray,109,Albury Surrounds
+2660,NSW,1,regional,Murray,109,Albury Surrounds
+2661,NSW,1,regional,Riverina,113,Wagga Wagga - West
+2663,NSW,1,regional,Riverina,113,Junee
+2665,NSW,1,regional,Riverina,113,Temora
+2666,NSW,1,regional,Riverina,113,Temora
+2668,NSW,1,regional,Central West,103,West Wyalong
+2669,NSW,1,regional,Central West,103,West Wyalong
+2671,NSW,1,regional,Central West,103,West Wyalong
+2672,NSW,1,regional,Central West,103,Condobolin
+2675,NSW,1,regional,Riverina,113,Griffith Surrounds
+2678,NSW,1,regional,Riverina,113,Wagga Wagga - North
+2680,NSW,1,regional,Riverina,113,Griffith (NSW)
+2681,NSW,1,regional,Riverina,113,Griffith Surrounds
+2700,NSW,1,regional,Riverina,113,Narrandera
+2701,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2702,NSW,1,regional,Riverina,113,Wagga Wagga Surrounds
+2703,NSW,1,regional,Riverina,113,Leeton
+2705,NSW,1,regional,Riverina,113,Leeton
+2706,NSW,1,regional,Riverina,113,Griffith Surrounds
+2707,NSW,1,regional,Riverina,113,Griffith Surrounds
+2710,NSW,1,regional,Murray,109,Deniliquin
+2711,NSW,1,regional,Murray,109,Hay
+2712,NSW,1,regional,Murray,109,Tocumwal - Finley - Jerilderie
+2713,NSW,1,regional,Murray,109,Tocumwal - Finley - Jerilderie
+2714,NSW,1,regional,Murray,109,Tocumwal - Finley - Jerilderie
+2715,NSW,1,regional,Murray,109,Wentworth-Balranald Region
+2716,NSW,1,regional,Murray,109,Tocumwal - Finley - Jerilderie
+2717,NSW,1,regional,Murray,109,Wentworth - Buronga
+2720,NSW,1,regional,Riverina,113,Tumut
+2721,NSW,1,regional,Central West,103,Grenfell
+2722,NSW,1,regional,Riverina,113,Gundagai
+2725,NSW,1,regional,Riverina,113,Cootamundra
+2726,NSW,1,regional,Capital Region,101,Yass Surrounds
+2727,NSW,1,regional,Riverina,113,Gundagai
+2729,NSW,1,regional,Riverina,113,Tumut Surrounds
+2730,NSW,1,regional,Riverina,113,Tumut Surrounds
+2731,NSW,1,regional,Murray,109,Moama
+2732,NSW,1,regional,Murray,109,Deniliquin Surrounds
+2733,NSW,1,regional,Murray,109,Deniliquin Surrounds
+2734,NSW,1,regional,Murray,109,Deniliquin Surrounds
+2735,NSW,1,regional,Murray,109,Deniliquin Surrounds
+2736,NSW,1,regional,Murray,109,Wentworth-Balranald Region
+2737,NSW,1,regional,Murray,109,Wentworth-Balranald Region
+2738,NSW,1,regional,Murray,109,Wentworth - Buronga
+2739,NSW,1,regional,Murray,109,Wentworth - Buronga
+2745,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Glenmore Park - Regentville
+2747,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Kingswood - Werrington
+2748,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Mulgoa - Luddenham - Orchard Hills
+2749,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Cranebrook - Castlereagh
+2750,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Penrith
+2752,NSW,1,regional,Sydney - Outer West and Blue Mountains,124,Warragamba - Silverdale
+2753,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Richmond - Clarendon
+2754,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Richmond - Clarendon
+2756,NSW,1,metro,Sydney - Baulkham Hills and Hawkesbury,115,Windsor - Bligh Park
+2757,NSW,1,regional,Sydney - Baulkham Hills and Hawkesbury,115,Kurrajong Heights - Ebenezer
+2758,NSW,1,regional,Sydney - Baulkham Hills and Hawkesbury,115,Kurrajong Heights - Ebenezer
+2759,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,St Clair
+2760,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,St Marys - North St Marys
+2761,NSW,1,metro,Sydney - Blacktown,116,Hassall Grove - Plumpton
+2762,NSW,1,metro,Sydney - Blacktown,116,Schofields - East
+2763,NSW,1,metro,Sydney - Blacktown,116,Quakers Hill
+2765,NSW,1,metro,Sydney - Blacktown,116,Marsden Park - Shanes Park
+2766,NSW,1,metro,Sydney - Blacktown,116,Rooty Hill - Minchinbury
+2767,NSW,1,metro,Sydney - Blacktown,116,Doonside - Woodcroft
+2768,NSW,1,metro,Sydney - Blacktown,116,Glenwood
+2769,NSW,1,metro,Sydney - Blacktown,116,Kellyville Ridge - The Ponds
+2770,NSW,1,metro,Sydney - Blacktown,116,Mount Druitt - Whalan
+2773,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Blaxland - Warrimoo - Lapstone
+2774,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Blaxland - Warrimoo - Lapstone
+2775,NSW,1,regional,Sydney - Baulkham Hills and Hawkesbury,115,Bilpin - Colo - St Albans
+2776,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Springwood - Winmalee
+2777,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Springwood - Winmalee
+2778,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Lawson - Hazelbrook - Linden
+2779,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Lawson - Hazelbrook - Linden
+2780,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Katoomba - Leura
+2782,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Wentworth Falls
+2783,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Lawson - Hazelbrook - Linden
+2784,NSW,1,metro,Sydney - Outer West and Blue Mountains,124,Lawson - Hazelbrook - Linden
+2785,NSW,1,regional,Sydney - Outer West and Blue Mountains,124,Blackheath - Megalong Valley
+2786,NSW,1,regional,Sydney - Outer West and Blue Mountains,124,Blackheath - Megalong Valley
+2787,NSW,1,regional,Central West,103,Oberon
+2790,NSW,1,regional,Central West,103,Lithgow
+2791,NSW,1,regional,Central West,103,Blayney
+2792,NSW,1,regional,Central West,103,Blayney
+2793,NSW,1,regional,Central West,103,Cowra Surrounds
+2794,NSW,1,regional,Central West,103,Cowra
+2795,NSW,1,regional,Central West,103,Bathurst - West
+2797,NSW,1,regional,Central West,103,Blayney
+2798,NSW,1,regional,Central West,103,Blayney
+2799,NSW,1,regional,Central West,103,Blayney
+2800,NSW,1,regional,Central West,103,Orange - North
+2803,NSW,1,regional,Capital Region,101,Young Surrounds
+2804,NSW,1,regional,Central West,103,Cowra Surrounds
+2805,NSW,1,regional,Central West,103,Cowra Surrounds
+2806,NSW,1,regional,Central West,103,Forbes
+2807,NSW,1,regional,Capital Region,101,Young Surrounds
+2808,NSW,1,regional,Central West,103,Cowra Surrounds
+2809,NSW,1,regional,Central West,103,Grenfell
+2810,NSW,1,regional,Central West,103,Grenfell
+2817,NSW,1,regional,Far West and Orana,105,Gilgandra
+2818,NSW,1,regional,Far West and Orana,105,Wellington
+2820,NSW,1,regional,Far West and Orana,105,Wellington
+2821,NSW,1,regional,Far West and Orana,105,Narromine
+2822,NSW,1,regional,Far West and Orana,105,Dubbo Surrounds
+2823,NSW,1,regional,Far West and Orana,105,Narromine
+2824,NSW,1,regional,Far West and Orana,105,Nyngan - Warren
+2825,NSW,1,regional,Far West and Orana,105,Nyngan - Warren
+2826,NSW,1,regional,Far West and Orana,105,Nyngan - Warren
+2827,NSW,1,regional,Far West and Orana,105,Gilgandra
+2828,NSW,1,regional,Far West and Orana,105,Coonamble
+2829,NSW,1,regional,Far West and Orana,105,Coonamble
+2830,NSW,1,regional,Far West and Orana,105,Dubbo - South
+2831,NSW,1,regional,Far West and Orana,105,Dubbo Surrounds
+2832,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2833,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2834,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2835,NSW,1,regional,Far West and Orana,105,Cobar
+2836,NSW,1,regional,Far West and Orana,105,Far West
+2838,NSW,1,regional,Far West and Orana,105,Walgett - Lightning Ridge
+2839,NSW,1,regional,Far West and Orana,105,Bourke - Brewarrina
+2840,NSW,1,regional,Far West and Orana,105,Bourke - Brewarrina
+2842,NSW,1,regional,Far West and Orana,105,Coonabarabran
+2843,NSW,1,regional,Far West and Orana,105,Coonabarabran
+2844,NSW,1,regional,Central West,103,Mudgee Surrounds - West
+2845,NSW,1,regional,Central West,103,Lithgow Surrounds
+2846,NSW,1,regional,Central West,103,Lithgow Surrounds
+2847,NSW,1,regional,Central West,103,Lithgow Surrounds
+2848,NSW,1,regional,Central West,103,Mudgee Surrounds - East
+2849,NSW,1,regional,Central West,103,Mudgee Surrounds - East
+2850,NSW,1,regional,Central West,103,Mudgee
+2852,NSW,1,regional,Central West,103,Mudgee Surrounds - West
+2864,NSW,1,regional,Central West,103,Orange Surrounds
+2865,NSW,1,regional,Central West,103,Orange Surrounds
+2866,NSW,1,regional,Central West,103,Orange Surrounds
+2867,NSW,1,regional,Central West,103,Orange Surrounds
+2868,NSW,1,regional,Far West and Orana,105,Wellington
+2869,NSW,1,regional,Central West,103,Parkes Surrounds
+2870,NSW,1,regional,Central West,103,Parkes (NSW)
+2871,NSW,1,regional,Central West,103,Forbes
+2873,NSW,1,regional,Central West,103,Condobolin
+2874,NSW,1,regional,Central West,103,Condobolin
+2875,NSW,1,regional,Central West,103,Parkes Surrounds
+2876,NSW,1,regional,Central West,103,Parkes Surrounds
+2877,NSW,1,regional,Central West,103,Condobolin
+2878,NSW,1,regional,Far West and Orana,105,Far West
+2879,NSW,1,regional,Far West and Orana,105,Far West
+2880,NSW,1,regional,Far West and Orana,105,Broken Hill
+2898,NSW,1,regional,Mid North Coast,108,Lord Howe Island
+2899,,9,regional,Other Territories,901,Norfolk Island
+2900,ACT,8,metro,Australian Capital Territory,801,Greenway
+2902,ACT,8,metro,Australian Capital Territory,801,Kambah
+2903,ACT,8,metro,Australian Capital Territory,801,Wanniassa
+2904,ACT,8,metro,Australian Capital Territory,801,Monash
+2905,ACT,8,metro,Australian Capital Territory,801,Calwell
+2906,ACT,8,metro,Australian Capital Territory,801,Gordon (ACT)
+2911,ACT,8,metro,Australian Capital Territory,801,Crace
+2912,ACT,8,metro,Australian Capital Territory,801,Gungahlin
+2913,ACT,8,metro,Australian Capital Territory,801,Ngunnawal
+2914,ACT,8,metro,Australian Capital Territory,801,Harrison
+3000,VIC,2,metro,Melbourne - Inner,206,Melbourne CBD - North
+3002,VIC,2,metro,Melbourne - Inner,206,East Melbourne
+3003,VIC,2,metro,Melbourne - Inner,206,West Melbourne - Residential
+3004,VIC,2,metro,Melbourne - Inner,206,Albert Park
+3006,VIC,2,metro,Melbourne - Inner,206,Southbank - East
+3008,VIC,2,metro,Melbourne - Inner,206,Docklands
+3011,VIC,2,metro,Melbourne - West,213,Footscray
+3012,VIC,2,metro,Melbourne - West,213,West Footscray - Tottenham
+3013,VIC,2,metro,Melbourne - West,213,Yarraville
+3015,VIC,2,metro,Melbourne - West,213,Newport
+3016,VIC,2,metro,Melbourne - West,213,Williamstown
+3018,VIC,2,metro,Melbourne - West,213,Altona
+3019,VIC,2,metro,Melbourne - West,213,Braybrook
+3020,VIC,2,metro,Melbourne - West,213,Sunshine West
+3021,VIC,2,metro,Melbourne - West,213,St Albans - North
+3022,VIC,2,metro,Melbourne - West,213,Ardeer - Albion
+3023,VIC,2,metro,Melbourne - West,213,Caroline Springs
+3024,VIC,2,metro,Melbourne - West,213,Wyndham Vale - South
+3025,VIC,2,metro,Melbourne - West,213,Altona North
+3026,VIC,2,metro,Melbourne - West,213,Derrimut
+3027,VIC,2,metro,Melbourne - West,213,Laverton
+3028,VIC,2,metro,Melbourne - West,213,Altona Meadows
+3029,VIC,2,metro,Melbourne - West,213,Tarneit - Central
+3030,VIC,2,metro,Melbourne - West,213,Werribee - West
+3031,VIC,2,metro,Melbourne - Inner,206,Kensington (Vic.)
+3032,VIC,2,metro,Melbourne - Inner,206,Ascot Vale
+3033,VIC,2,metro,Melbourne - North West,210,Keilor East
+3034,VIC,2,metro,Melbourne - North West,210,Avondale Heights
+3036,VIC,2,metro,Melbourne - North West,210,Keilor
+3037,VIC,2,metro,Melbourne - West,213,Hillside
+3038,VIC,2,metro,Melbourne - West,213,Taylors Lakes
+3039,VIC,2,metro,Melbourne - Inner,206,Moonee Ponds
+3040,VIC,2,metro,Melbourne - Inner,206,Essendon (West) - Aberfeldie
+3041,VIC,2,metro,Melbourne - North West,210,Strathmore
+3042,VIC,2,metro,Melbourne - North West,210,Airport West
+3043,VIC,2,metro,Melbourne - North West,210,Gladstone Park - Westmeadows
+3044,VIC,2,metro,Melbourne - North West,210,Pascoe Vale
+3045,VIC,2,metro,Melbourne - North West,210,Melbourne Airport
+3046,VIC,2,metro,Melbourne - North West,210,Glenroy - East
+3047,VIC,2,metro,Melbourne - North West,210,Broadmeadows
+3048,VIC,2,metro,Melbourne - North West,210,Meadow Heights
+3049,VIC,2,metro,Melbourne - North West,210,Gladstone Park - Westmeadows
+3051,VIC,2,metro,Melbourne - Inner,206,North Melbourne
+3052,VIC,2,metro,Melbourne - Inner,206,Parkville
+3053,VIC,2,metro,Melbourne - Inner,206,Carlton
+3054,VIC,2,metro,Melbourne - Inner,206,Carlton North - Princes Hill
+3055,VIC,2,metro,Melbourne - Inner,206,Brunswick West
+3056,VIC,2,metro,Melbourne - Inner,206,Brunswick - North
+3057,VIC,2,metro,Melbourne - Inner,206,Brunswick East
+3058,VIC,2,metro,Melbourne - Inner,206,Coburg - West
+3059,VIC,2,metro,Melbourne - North West,210,Greenvale - Bulla
+3060,VIC,2,metro,Melbourne - North West,210,Fawkner
+3061,VIC,2,metro,Melbourne - North West,210,Campbellfield - Coolaroo
+3062,VIC,2,metro,Melbourne - North West,210,Roxburgh Park (South) - Somerton
+3063,VIC,2,metro,Melbourne - North West,210,Sunbury
+3064,VIC,2,metro,Melbourne - North West,210,Mickleham - Yuroke
+3065,VIC,2,metro,Melbourne - Inner,206,Fitzroy
+3066,VIC,2,metro,Melbourne - Inner,206,Collingwood
+3067,VIC,2,metro,Melbourne - Inner,206,Abbotsford
+3068,VIC,2,metro,Melbourne - Inner,206,Fitzroy North
+3070,VIC,2,metro,Melbourne - Inner,206,Northcote - East
+3071,VIC,2,metro,Melbourne - Inner,206,Thornbury
+3072,VIC,2,metro,Melbourne - North East,209,Preston - East
+3073,VIC,2,metro,Melbourne - North East,209,Reservoir - North East
+3074,VIC,2,metro,Melbourne - North East,209,Thomastown
+3075,VIC,2,metro,Melbourne - North East,209,Lalor - West
+3076,VIC,2,metro,Melbourne - North East,209,Epping - East
+3078,VIC,2,metro,Melbourne - Inner,206,Alphington - Fairfield
+3079,VIC,2,metro,Melbourne - North East,209,Ivanhoe
+3081,VIC,2,metro,Melbourne - North East,209,Heidelberg West
+3082,VIC,2,metro,Melbourne - North East,209,Mill Park - North
+3083,VIC,2,metro,Melbourne - North East,209,Bundoora - East
+3084,VIC,2,metro,Melbourne - North East,209,Heidelberg - Rosanna
+3085,VIC,2,metro,Melbourne - North East,209,Viewbank - Yallambie
+3087,VIC,2,metro,Melbourne - North East,209,Watsonia
+3088,VIC,2,metro,Melbourne - North East,209,Greensborough
+3089,VIC,2,metro,Melbourne - North East,209,Wattle Glen - Diamond Creek
+3090,VIC,2,metro,Melbourne - North East,209,Plenty - Yarrambat
+3091,VIC,2,metro,Melbourne - North East,209,Plenty - Yarrambat
+3093,VIC,2,metro,Melbourne - North East,209,Montmorency - Briar Hill
+3094,VIC,2,metro,Melbourne - North East,209,Montmorency - Briar Hill
+3095,VIC,2,metro,Melbourne - North East,209,Eltham
+3096,VIC,2,metro,Melbourne - North East,209,Wattle Glen - Diamond Creek
+3097,VIC,2,metro,Melbourne - North East,209,Research - North Warrandyte
+3099,VIC,2,metro,Melbourne - North East,209,Hurstbridge
+3101,VIC,2,metro,Melbourne - Inner East,207,Kew - West
+3102,VIC,2,metro,Melbourne - Inner East,207,Kew East
+3103,VIC,2,metro,Melbourne - Inner East,207,Balwyn
+3104,VIC,2,metro,Melbourne - Inner East,207,Balwyn North
+3105,VIC,2,metro,Melbourne - Inner East,207,Bulleen
+3106,VIC,2,metro,Melbourne - Inner East,207,Templestowe
+3107,VIC,2,metro,Melbourne - Inner East,207,Templestowe Lower
+3108,VIC,2,metro,Melbourne - Inner East,207,Doncaster
+3109,VIC,2,metro,Melbourne - Inner East,207,Doncaster East - North
+3111,VIC,2,metro,Melbourne - Outer East,211,Donvale - Park Orchards
+3113,VIC,2,metro,Melbourne - Outer East,211,Warrandyte - Wonga Park
+3114,VIC,2,metro,Melbourne - Outer East,211,Donvale - Park Orchards
+3115,VIC,2,metro,Melbourne - Outer East,211,Warrandyte - Wonga Park
+3116,VIC,2,metro,Melbourne - Outer East,211,Chirnside Park
+3121,VIC,2,metro,Melbourne - Inner,206,Richmond (South) - Cremorne
+3122,VIC,2,metro,Melbourne - Inner East,207,Hawthorn - South
+3123,VIC,2,metro,Melbourne - Inner East,207,Hawthorn East
+3124,VIC,2,metro,Melbourne - Inner East,207,Camberwell
+3125,VIC,2,metro,Melbourne - Inner East,207,Burwood (Vic.)
+3126,VIC,2,metro,Melbourne - Inner East,207,Surrey Hills (West) - Canterbury
+3127,VIC,2,metro,Melbourne - Inner East,207,Surrey Hills (East) - Mont Albert
+3128,VIC,2,metro,Melbourne - Inner East,207,Box Hill
+3129,VIC,2,metro,Melbourne - Inner East,207,Box Hill North
+3130,VIC,2,metro,Melbourne - Inner East,207,Blackburn
+3131,VIC,2,metro,Melbourne - Outer East,211,Nunawading
+3132,VIC,2,metro,Melbourne - Outer East,211,Mitcham (Vic.)
+3133,VIC,2,metro,Melbourne - Outer East,211,Vermont South
+3134,VIC,2,metro,Melbourne - Outer East,211,Ringwood
+3135,VIC,2,metro,Melbourne - Outer East,211,Ringwood East
+3136,VIC,2,metro,Melbourne - Outer East,211,Croydon - East
+3137,VIC,2,metro,Melbourne - Outer East,211,Kilsyth
+3138,VIC,2,metro,Melbourne - Outer East,211,Mooroolbark
+3139,VIC,2,regional,Melbourne - Outer East,211,Yarra Valley
+3140,VIC,2,metro,Melbourne - Outer East,211,Lilydale - Coldstream
+3141,VIC,2,metro,Melbourne - Inner,206,South Yarra - North
+3142,VIC,2,metro,Melbourne - Inner,206,Toorak
+3143,VIC,2,metro,Melbourne - Inner,206,Armadale
+3144,VIC,2,metro,Melbourne - Inner South,208,Malvern - Glen Iris
+3145,VIC,2,metro,Melbourne - Inner South,208,Malvern East
+3146,VIC,2,metro,Melbourne - Inner East,207,Glen Iris - East
+3147,VIC,2,metro,Melbourne - Inner East,207,Ashburton (Vic.)
+3148,VIC,2,metro,Melbourne - South East,212,Ashwood - Chadstone
+3149,VIC,2,metro,Melbourne - South East,212,Mount Waverley - South
+3150,VIC,2,metro,Melbourne - South East,212,Glen Waverley - East
+3151,VIC,2,metro,Melbourne - Inner East,207,Burwood East
+3152,VIC,2,metro,Melbourne - Outer East,211,Wantirna South
+3153,VIC,2,metro,Melbourne - Outer East,211,Bayswater
+3154,VIC,2,metro,Melbourne - Outer East,211,The Basin
+3155,VIC,2,metro,Melbourne - Outer East,211,Boronia
+3156,VIC,2,metro,Melbourne - Outer East,211,Ferntree Gully (South) - Upper Ferntree Gully
+3158,VIC,2,metro,Melbourne - Outer East,211,Upwey - Tecoma
+3159,VIC,2,metro,Melbourne - Outer East,211,Belgrave - Selby
+3160,VIC,2,metro,Melbourne - Outer East,211,Belgrave - Selby
+3161,VIC,2,metro,Melbourne - Inner South,208,Caulfield - North
+3162,VIC,2,metro,Melbourne - Inner South,208,Caulfield - South
+3163,VIC,2,metro,Melbourne - Inner South,208,Carnegie
+3165,VIC,2,metro,Melbourne - Inner South,208,Bentleigh East - North
+3166,VIC,2,metro,Melbourne - South East,212,Oakleigh - Huntingdale
+3167,VIC,2,metro,Melbourne - South East,212,Oakleigh - Huntingdale
+3168,VIC,2,metro,Melbourne - South East,212,Clayton - Central
+3169,VIC,2,metro,Melbourne - South East,212,Clayton South
+3170,VIC,2,metro,Melbourne - South East,212,Mulgrave
+3171,VIC,2,metro,Melbourne - South East,212,Springvale
+3172,VIC,2,metro,Melbourne - South East,212,Springvale South
+3173,VIC,2,metro,Melbourne - South East,212,Keysborough - North
+3174,VIC,2,metro,Melbourne - South East,212,Noble Park - West
+3175,VIC,2,metro,Melbourne - South East,212,Dandenong North
+3177,VIC,2,metro,Melbourne - South East,212,Doveton
+3178,VIC,2,metro,Melbourne - Outer East,211,Rowville - Central
+3179,VIC,2,metro,Melbourne - Outer East,211,Knoxfield - Scoresby
+3180,VIC,2,metro,Melbourne - Outer East,211,Knoxfield - Scoresby
+3181,VIC,2,metro,Melbourne - Inner,206,Prahran - Windsor
+3182,VIC,2,metro,Melbourne - Inner,206,St Kilda - Central
+3183,VIC,2,metro,Melbourne - Inner,206,St Kilda East
+3184,VIC,2,metro,Melbourne - Inner,206,Elwood
+3185,VIC,2,metro,Melbourne - Inner South,208,Elsternwick
+3186,VIC,2,metro,Melbourne - Inner South,208,Brighton (Vic.)
+3187,VIC,2,metro,Melbourne - Inner South,208,Brighton East
+3188,VIC,2,metro,Melbourne - Inner South,208,Hampton
+3189,VIC,2,metro,Melbourne - Inner South,208,Moorabbin - Heatherton
+3190,VIC,2,metro,Melbourne - Inner South,208,Highett (West) - Cheltenham
+3191,VIC,2,metro,Melbourne - Inner South,208,Sandringham - Black Rock
+3192,VIC,2,metro,Melbourne - Inner South,208,Highett (East) - Cheltenham
+3193,VIC,2,metro,Melbourne - Inner South,208,Beaumaris
+3194,VIC,2,metro,Melbourne - Inner South,208,Mentone
+3195,VIC,2,metro,Melbourne - Inner South,208,Mordialloc - Parkdale
+3196,VIC,2,metro,Melbourne - Inner South,208,Chelsea - Bonbeach
+3197,VIC,2,metro,Melbourne - Inner South,208,Carrum - Patterson Lakes
+3198,VIC,2,metro,Mornington Peninsula,214,Seaford (Vic.)
+3199,VIC,2,metro,Mornington Peninsula,214,Frankston
+3200,VIC,2,metro,Mornington Peninsula,214,Frankston North
+3201,VIC,2,metro,Mornington Peninsula,214,Carrum Downs
+3202,VIC,2,metro,Melbourne - Inner South,208,Moorabbin - Heatherton
+3204,VIC,2,metro,Melbourne - Inner South,208,Bentleigh - McKinnon
+3205,VIC,2,metro,Melbourne - Inner,206,South Melbourne
+3206,VIC,2,metro,Melbourne - Inner,206,Albert Park
+3207,VIC,2,metro,Melbourne - Inner,206,Port Melbourne
+3211,VIC,2,regional,Melbourne - West,213,Werribee - West
+3212,VIC,2,metro,Geelong,203,Lara
+3213,VIC,2,metro,Geelong,203,Corio - Lovely Banks
+3214,VIC,2,metro,Geelong,203,Corio - Lovely Banks
+3215,VIC,2,metro,Geelong,203,North Geelong - Bell Park
+3216,VIC,2,metro,Geelong,203,Highton
+3217,VIC,2,metro,Geelong,203,Charlemont
+3218,VIC,2,metro,Geelong,203,Geelong West - Hamlyn Heights
+3219,VIC,2,metro,Geelong,203,Newcomb - Moolap
+3220,VIC,2,metro,Geelong,203,Newtown (Vic.)
+3221,VIC,2,regional,Geelong,203,Winchelsea
+3222,VIC,2,regional,Geelong,203,Clifton Springs
+3223,VIC,2,regional,Geelong,203,Portarlington
+3224,VIC,2,metro,Geelong,203,Leopold
+3225,VIC,2,regional,Geelong,203,Point Lonsdale - Queenscliff
+3226,VIC,2,regional,Geelong,203,Ocean Grove
+3227,VIC,2,regional,Geelong,203,Barwon Heads - Armstrong Creek
+3228,VIC,2,regional,Geelong,203,Torquay
+3230,VIC,2,regional,Geelong,203,Lorne - Anglesea
+3231,VIC,2,regional,Geelong,203,Lorne - Anglesea
+3232,VIC,2,regional,Geelong,203,Lorne - Anglesea
+3233,VIC,2,regional,Warrnambool and South West,217,Otway
+3234,VIC,2,regional,Warrnambool and South West,217,Otway
+3235,VIC,2,regional,Geelong,203,Winchelsea
+3236,VIC,2,regional,Warrnambool and South West,217,Otway
+3237,VIC,2,regional,Warrnambool and South West,217,Otway
+3238,VIC,2,regional,Warrnambool and South West,217,Otway
+3239,VIC,2,regional,Warrnambool and South West,217,Otway
+3240,VIC,2,regional,Geelong,203,Winchelsea
+3241,VIC,2,regional,Geelong,203,Winchelsea
+3242,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3243,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3249,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3250,VIC,2,regional,Warrnambool and South West,217,Colac
+3251,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3254,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3260,VIC,2,regional,Warrnambool and South West,217,Camperdown
+3264,VIC,2,regional,Warrnambool and South West,217,Corangamite - North
+3265,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3266,VIC,2,regional,Warrnambool and South West,217,Corangamite - South
+3267,VIC,2,regional,Warrnambool and South West,217,Corangamite - South
+3268,VIC,2,regional,Warrnambool and South West,217,Corangamite - South
+3269,VIC,2,regional,Warrnambool and South West,217,Corangamite - South
+3270,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3271,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3272,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3273,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3274,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3275,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3276,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3277,VIC,2,regional,Warrnambool and South West,217,Warrnambool - South
+3278,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3279,VIC,2,regional,Warrnambool and South West,217,Moyne - East
+3280,VIC,2,regional,Warrnambool and South West,217,Warrnambool - North
+3281,VIC,2,regional,Warrnambool and South West,217,Warrnambool - North
+3282,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3283,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3284,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3285,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3286,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3287,VIC,2,regional,Warrnambool and South West,217,Moyne - West
+3289,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3292,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3293,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3294,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3300,VIC,2,regional,Warrnambool and South West,217,Hamilton (Vic.)
+3301,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3302,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3303,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3304,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3305,VIC,2,regional,Warrnambool and South West,217,Portland
+3309,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3310,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3311,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3312,VIC,2,regional,Warrnambool and South West,217,Glenelg (Vic.)
+3314,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3315,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3317,VIC,2,regional,North West,215,West Wimmera
+3318,VIC,2,regional,North West,215,West Wimmera
+3319,VIC,2,regional,North West,215,West Wimmera
+3321,VIC,2,regional,Geelong,203,Golden Plains - South
+3322,VIC,2,regional,Warrnambool and South West,217,Colac Surrounds
+3323,VIC,2,regional,Warrnambool and South West,217,Corangamite - North
+3324,VIC,2,regional,Warrnambool and South West,217,Corangamite - North
+3325,VIC,2,regional,Warrnambool and South West,217,Corangamite - North
+3328,VIC,2,regional,Geelong,203,Golden Plains - South
+3329,VIC,2,regional,Geelong,203,Golden Plains - South
+3330,VIC,2,regional,Geelong,203,Golden Plains - South
+3331,VIC,2,regional,Geelong,203,Bannockburn
+3332,VIC,2,regional,Geelong,203,Golden Plains - South
+3333,VIC,2,regional,Geelong,203,Golden Plains - South
+3334,VIC,2,regional,Ballarat,201,Gordon (Vic.)
+3335,VIC,2,metro,Melbourne - West,213,Rockbank - Mount Cottrell
+3336,VIC,2,metro,Melbourne - West,213,Fraser Rise - Plumpton
+3337,VIC,2,metro,Melbourne - West,213,Melton West
+3338,VIC,2,metro,Melbourne - West,213,Melton South - Weir Views
+3340,VIC,2,metro,Melbourne - West,213,Bacchus Marsh
+3341,VIC,2,regional,Ballarat,201,Bacchus Marsh Surrounds
+3342,VIC,2,regional,Ballarat,201,Bacchus Marsh Surrounds
+3345,VIC,2,regional,Ballarat,201,Gordon (Vic.)
+3350,VIC,2,regional,Ballarat,201,Alfredton
+3351,VIC,2,regional,Ballarat,201,Smythes Creek
+3352,VIC,2,regional,Ballarat,201,Gordon (Vic.)
+3355,VIC,2,regional,Ballarat,201,Wendouree - Miners Rest
+3356,VIC,2,regional,Ballarat,201,Sebastopol - Redan
+3357,VIC,2,regional,Ballarat,201,Buninyong
+3358,VIC,2,regional,Ballarat,201,Delacombe
+3360,VIC,2,regional,Ballarat,201,Golden Plains - North
+3361,VIC,2,regional,Warrnambool and South West,217,Corangamite - North
+3363,VIC,2,regional,Ballarat,201,Creswick - Clunes
+3364,VIC,2,regional,Ballarat,201,Creswick - Clunes
+3370,VIC,2,regional,Ballarat,201,Creswick - Clunes
+3371,VIC,2,regional,Ballarat,201,Maryborough Surrounds
+3373,VIC,2,regional,Ballarat,201,Beaufort
+3374,VIC,2,regional,North West,215,Stawell
+3375,VIC,2,regional,North West,215,Ararat Surrounds
+3377,VIC,2,regional,North West,215,Ararat
+3378,VIC,2,regional,North West,215,Ararat Surrounds
+3379,VIC,2,regional,North West,215,Ararat Surrounds
+3380,VIC,2,regional,North West,215,Stawell
+3381,VIC,2,regional,North West,215,Stawell
+3384,VIC,2,regional,North West,215,Avoca
+3385,VIC,2,regional,North West,215,Stawell
+3387,VIC,2,regional,North West,215,St Arnaud
+3388,VIC,2,regional,North West,215,Yarriambiack
+3390,VIC,2,regional,North West,215,Yarriambiack
+3391,VIC,2,regional,North West,215,Yarriambiack
+3392,VIC,2,regional,North West,215,Yarriambiack
+3393,VIC,2,regional,North West,215,Yarriambiack
+3395,VIC,2,regional,North West,215,Yarriambiack
+3396,VIC,2,regional,North West,215,Yarriambiack
+3400,VIC,2,regional,North West,215,Horsham
+3401,VIC,2,regional,North West,215,Horsham Surrounds
+3407,VIC,2,regional,Warrnambool and South West,217,Southern Grampians
+3409,VIC,2,regional,North West,215,Horsham Surrounds
+3412,VIC,2,regional,North West,215,West Wimmera
+3413,VIC,2,regional,North West,215,West Wimmera
+3414,VIC,2,regional,North West,215,Nhill Region
+3415,VIC,2,regional,North West,215,Nhill Region
+3418,VIC,2,regional,North West,215,Nhill Region
+3419,VIC,2,regional,North West,215,Nhill Region
+3420,VIC,2,regional,North West,215,Nhill Region
+3423,VIC,2,regional,North West,215,Nhill Region
+3424,VIC,2,regional,North West,215,Nhill Region
+3427,VIC,2,metro,Melbourne - North West,210,Diggers Rest
+3428,VIC,2,metro,Melbourne - North West,210,Greenvale - Bulla
+3429,VIC,2,metro,Melbourne - North West,210,Sunbury - South
+3430,VIC,2,regional,Melbourne - North West,210,Romsey
+3431,VIC,2,regional,Melbourne - North West,210,Riddells Creek
+3432,VIC,2,regional,Melbourne - North West,210,Romsey
+3433,VIC,2,regional,Melbourne - North West,210,Romsey
+3434,VIC,2,regional,Melbourne - North West,210,Romsey
+3435,VIC,2,regional,Melbourne - North West,210,Romsey
+3437,VIC,2,regional,Melbourne - North West,210,Gisborne
+3438,VIC,2,regional,Melbourne - North West,210,Gisborne
+3440,VIC,2,regional,Melbourne - North West,210,Macedon
+3441,VIC,2,regional,Melbourne - North West,210,Macedon
+3442,VIC,2,regional,Bendigo,202,Woodend
+3444,VIC,2,regional,Bendigo,202,Kyneton
+3446,VIC,2,regional,Bendigo,202,Kyneton
+3447,VIC,2,regional,Bendigo,202,Castlemaine Surrounds
+3448,VIC,2,regional,Bendigo,202,Castlemaine Surrounds
+3450,VIC,2,regional,Bendigo,202,Castlemaine
+3451,VIC,2,regional,Bendigo,202,Castlemaine
+3453,VIC,2,regional,Bendigo,202,Castlemaine Surrounds
+3458,VIC,2,regional,Ballarat,201,Daylesford
+3460,VIC,2,regional,Ballarat,201,Daylesford
+3461,VIC,2,regional,Ballarat,201,Daylesford
+3462,VIC,2,regional,Bendigo,202,Castlemaine Surrounds
+3463,VIC,2,regional,Bendigo,202,Castlemaine Surrounds
+3464,VIC,2,regional,Ballarat,201,Maryborough Surrounds
+3465,VIC,2,regional,Ballarat,201,Maryborough (Vic.)
+3467,VIC,2,regional,Ballarat,201,Avoca
+3468,VIC,2,regional,Ballarat,201,Avoca
+3469,VIC,2,regional,Ballarat,201,Avoca
+3472,VIC,2,regional,Ballarat,201,Maryborough Surrounds
+3475,VIC,2,regional,Ballarat,201,Maryborough Surrounds
+3477,VIC,2,regional,North West,215,St Arnaud
+3478,VIC,2,regional,North West,215,St Arnaud
+3480,VIC,2,regional,North West,215,Buloke
+3482,VIC,2,regional,North West,215,Buloke
+3483,VIC,2,regional,North West,215,Buloke
+3485,VIC,2,regional,North West,215,Yarriambiack
+3487,VIC,2,regional,North West,215,Yarriambiack
+3488,VIC,2,regional,North West,215,Yarriambiack
+3489,VIC,2,regional,North West,215,Yarriambiack
+3490,VIC,2,regional,North West,215,Mildura Surrounds
+3491,VIC,2,regional,North West,215,Yarriambiack
+3494,VIC,2,regional,North West,215,Mildura Surrounds
+3496,VIC,2,regional,North West,215,Red Cliffs
+3498,VIC,2,regional,North West,215,Irymple
+3500,VIC,2,regional,North West,215,Mildura - North
+3501,VIC,2,regional,North West,215,Irymple
+3505,VIC,2,regional,North West,215,Merbein
+3506,VIC,2,regional,North West,215,Mildura Surrounds
+3507,VIC,2,regional,North West,215,Mildura Surrounds
+3509,VIC,2,regional,North West,215,Mildura Surrounds
+3512,VIC,2,regional,North West,215,Mildura Surrounds
+3515,VIC,2,regional,Bendigo,202,Bendigo Surrounds - South
+3516,VIC,2,regional,Bendigo,202,Loddon
+3517,VIC,2,regional,Bendigo,202,Loddon
+3518,VIC,2,regional,Bendigo,202,Loddon
+3520,VIC,2,regional,Bendigo,202,Loddon
+3521,VIC,2,regional,Hume,204,Seymour Surrounds
+3522,VIC,2,regional,Hume,204,Seymour Surrounds
+3523,VIC,2,regional,Bendigo,202,Heathcote
+3525,VIC,2,regional,North West,215,Buloke
+3527,VIC,2,regional,North West,215,Buloke
+3529,VIC,2,regional,North West,215,Buloke
+3530,VIC,2,regional,North West,215,Buloke
+3531,VIC,2,regional,North West,215,Buloke
+3533,VIC,2,regional,North West,215,Buloke
+3537,VIC,2,regional,Bendigo,202,Loddon
+3540,VIC,2,regional,North West,215,Gannawarra
+3542,VIC,2,regional,North West,215,Gannawarra
+3544,VIC,2,regional,North West,215,Swan Hill Surrounds
+3546,VIC,2,regional,North West,215,Swan Hill Surrounds
+3549,VIC,2,regional,North West,215,Robinvale
+3550,VIC,2,regional,Bendigo,202,Bendigo
+3551,VIC,2,regional,Bendigo,202,White Hills - Ascot
+3555,VIC,2,regional,Bendigo,202,Kangaroo Flat - Golden Square
+3556,VIC,2,regional,Bendigo,202,California Gully - Eaglehawk
+3557,VIC,2,regional,Bendigo,202,Bendigo Surrounds - North
+3558,VIC,2,regional,Bendigo,202,Bendigo Surrounds - North
+3559,VIC,2,regional,Shepparton,216,Rushworth
+3561,VIC,2,regional,Shepparton,216,Rochester
+3562,VIC,2,regional,Shepparton,216,Lockington - Gunbower
+3563,VIC,2,regional,Shepparton,216,Lockington - Gunbower
+3564,VIC,2,regional,Shepparton,216,Echuca
+3565,VIC,2,regional,Shepparton,216,Lockington - Gunbower
+3566,VIC,2,regional,Shepparton,216,Lockington - Gunbower
+3567,VIC,2,regional,North West,215,Gannawarra
+3568,VIC,2,regional,North West,215,Gannawarra
+3570,VIC,2,regional,Bendigo,202,Bendigo Surrounds - North
+3571,VIC,2,regional,Bendigo,202,Loddon
+3572,VIC,2,regional,Shepparton,216,Lockington - Gunbower
+3573,VIC,2,regional,Bendigo,202,Loddon
+3575,VIC,2,regional,Bendigo,202,Loddon
+3576,VIC,2,regional,Bendigo,202,Loddon
+3579,VIC,2,regional,North West,215,Kerang
+3580,VIC,2,regional,North West,215,Gannawarra
+3581,VIC,2,regional,North West,215,Gannawarra
+3583,VIC,2,regional,North West,215,Swan Hill Surrounds
+3584,VIC,2,regional,North West,215,Swan Hill Surrounds
+3585,VIC,2,regional,North West,215,Swan Hill
+3586,VIC,2,regional,North West,215,Swan Hill Surrounds
+3588,VIC,2,regional,North West,215,Swan Hill Surrounds
+3589,VIC,2,regional,North West,215,Swan Hill Surrounds
+3590,VIC,2,regional,North West,215,Swan Hill Surrounds
+3591,VIC,2,regional,North West,215,Swan Hill Surrounds
+3594,VIC,2,regional,North West,215,Swan Hill Surrounds
+3595,VIC,2,regional,North West,215,Swan Hill Surrounds
+3596,VIC,2,regional,North West,215,Swan Hill Surrounds
+3597,VIC,2,regional,North West,215,Swan Hill Surrounds
+3599,VIC,2,regional,North West,215,Swan Hill Surrounds
+3607,VIC,2,regional,Hume,204,Nagambie
+3608,VIC,2,regional,Hume,204,Nagambie
+3610,VIC,2,regional,Shepparton,216,Shepparton Surrounds - West
+3612,VIC,2,regional,Shepparton,216,Rushworth
+3614,VIC,2,regional,Shepparton,216,Shepparton Surrounds - West
+3616,VIC,2,regional,Shepparton,216,Shepparton Surrounds - West
+3617,VIC,2,regional,Shepparton,216,Shepparton Surrounds - West
+3618,VIC,2,regional,Shepparton,216,Shepparton Surrounds - West
+3620,VIC,2,regional,Shepparton,216,Kyabram
+3621,VIC,2,regional,Shepparton,216,Kyabram
+3622,VIC,2,regional,Shepparton,216,Kyabram
+3623,VIC,2,regional,Shepparton,216,Rushworth
+3624,VIC,2,regional,Shepparton,216,Rushworth
+3629,VIC,2,regional,Shepparton,216,Mooroopna
+3630,VIC,2,regional,Shepparton,216,Shepparton - North
+3631,VIC,2,regional,Shepparton,216,Kialla
+3633,VIC,2,regional,Shepparton,216,Shepparton Surrounds - East
+3634,VIC,2,regional,Shepparton,216,Shepparton Surrounds - East
+3635,VIC,2,regional,Shepparton,216,Numurkah
+3636,VIC,2,regional,Shepparton,216,Numurkah
+3637,VIC,2,regional,Shepparton,216,Numurkah
+3638,VIC,2,regional,Shepparton,216,Numurkah
+3639,VIC,2,regional,Shepparton,216,Numurkah
+3640,VIC,2,regional,Shepparton,216,Numurkah
+3641,VIC,2,regional,Shepparton,216,Numurkah
+3644,VIC,2,regional,Shepparton,216,Cobram
+3646,VIC,2,regional,Shepparton,216,Shepparton Surrounds - East
+3647,VIC,2,regional,Shepparton,216,Shepparton Surrounds - East
+3649,VIC,2,regional,Shepparton,216,Moira
+3658,VIC,2,regional,Hume,204,Kilmore - Broadford
+3659,VIC,2,regional,Hume,204,Seymour Surrounds
+3660,VIC,2,regional,Hume,204,Seymour
+3662,VIC,2,regional,Hume,204,Seymour Surrounds
+3663,VIC,2,regional,Hume,204,Nagambie
+3664,VIC,2,regional,Hume,204,Nagambie
+3665,VIC,2,regional,Hume,204,Euroa
+3666,VIC,2,regional,Hume,204,Euroa
+3669,VIC,2,regional,Hume,204,Euroa
+3670,VIC,2,regional,Hume,204,Benalla Surrounds
+3672,VIC,2,regional,Hume,204,Benalla
+3673,VIC,2,regional,Hume,204,Benalla Surrounds
+3675,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3677,VIC,2,regional,Hume,204,Wangaratta
+3678,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3682,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3683,VIC,2,regional,Hume,204,Chiltern - Indigo Valley
+3685,VIC,2,regional,Hume,204,Rutherglen
+3687,VIC,2,regional,Hume,204,Rutherglen
+3688,VIC,2,regional,Hume,204,Chiltern - Indigo Valley
+3690,VIC,2,regional,Hume,204,Wodonga
+3691,VIC,2,regional,Hume,204,Baranduda - Leneva
+3695,VIC,2,regional,Hume,204,Yackandandah
+3697,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3698,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3699,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3700,VIC,2,regional,Hume,204,Towong
+3701,VIC,2,regional,Hume,204,Towong
+3704,VIC,2,regional,Hume,204,Towong
+3705,VIC,2,regional,Hume,204,Towong
+3707,VIC,2,regional,Hume,204,Towong
+3708,VIC,2,regional,Hume,204,Towong
+3709,VIC,2,regional,Hume,204,Towong
+3711,VIC,2,regional,Hume,204,Alexandra
+3712,VIC,2,regional,Hume,204,Alexandra
+3713,VIC,2,regional,Hume,204,Alexandra
+3714,VIC,2,regional,Hume,204,Alexandra
+3715,VIC,2,regional,Hume,204,Mansfield (Vic.)
+3717,VIC,2,regional,Hume,204,Yea
+3718,VIC,2,regional,Hume,204,Yea
+3719,VIC,2,regional,Hume,204,Alexandra
+3720,VIC,2,regional,Hume,204,Mansfield (Vic.)
+3722,VIC,2,regional,Hume,204,Mansfield (Vic.)
+3723,VIC,2,regional,Hume,204,Mansfield (Vic.)
+3725,VIC,2,regional,Hume,204,Benalla Surrounds
+3726,VIC,2,regional,Hume,204,Benalla Surrounds
+3727,VIC,2,regional,Shepparton,216,Moira
+3728,VIC,2,regional,Shepparton,216,Moira
+3730,VIC,2,regional,Shepparton,216,Yarrawonga
+3732,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3733,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3735,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3737,VIC,2,regional,Hume,204,Myrtleford
+3738,VIC,2,regional,Hume,204,Myrtleford
+3739,VIC,2,regional,Hume,204,Myrtleford
+3740,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3741,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3744,VIC,2,regional,Hume,204,Bright - Mount Beauty
+3746,VIC,2,regional,Hume,204,Wangaratta Surrounds
+3747,VIC,2,regional,Hume,204,Beechworth
+3749,VIC,2,regional,Hume,204,Yackandandah
+3750,VIC,2,metro,Melbourne - North East,209,Wollert
+3751,VIC,2,metro,Melbourne - North East,209,Whittlesea
+3752,VIC,2,metro,Melbourne - North East,209,South Morang - North
+3753,VIC,2,metro,Melbourne - North East,209,Wallan
+3754,VIC,2,metro,Melbourne - North East,209,Doreen - North
+3755,VIC,2,metro,Melbourne - North East,209,Whittlesea
+3756,VIC,2,metro,Melbourne - North East,209,Wallan
+3757,VIC,2,metro,Melbourne - North East,209,Whittlesea
+3758,VIC,2,regional,Melbourne - North East,209,Wallan
+3759,VIC,2,metro,Melbourne - North East,209,Panton Hill - St Andrews
+3760,VIC,2,regional,Melbourne - North East,209,Panton Hill - St Andrews
+3761,VIC,2,regional,Melbourne - North East,209,Panton Hill - St Andrews
+3762,VIC,2,regional,Melbourne - North East,209,Wallan
+3763,VIC,2,regional,Melbourne - North East,209,Kinglake
+3764,VIC,2,regional,Hume,204,Kilmore - Broadford
+3765,VIC,2,metro,Melbourne - Outer East,211,Montrose
+3766,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3767,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3770,VIC,2,metro,Melbourne - Outer East,211,Lilydale - Coldstream
+3775,VIC,2,regional,Melbourne - Outer East,211,Healesville - Yarra Glen
+3777,VIC,2,regional,Melbourne - Outer East,211,Healesville - Yarra Glen
+3778,VIC,2,regional,Hume,204,Alexandra
+3779,VIC,2,regional,Hume,204,Alexandra
+3781,VIC,2,metro,Melbourne - South East,212,Emerald - Cockatoo
+3782,VIC,2,metro,Melbourne - South East,212,Emerald - Cockatoo
+3783,VIC,2,metro,Melbourne - South East,212,Emerald - Cockatoo
+3785,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3786,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3787,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3788,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3789,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3791,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3792,VIC,2,metro,Melbourne - Outer East,211,Mount Dandenong - Olinda
+3793,VIC,2,metro,Melbourne - Outer East,211,Monbulk - Silvan
+3795,VIC,2,metro,Melbourne - Outer East,211,Monbulk - Silvan
+3796,VIC,2,metro,Melbourne - Outer East,211,Mount Evelyn
+3797,VIC,2,regional,Melbourne - Outer East,211,Yarra Valley
+3799,VIC,2,regional,Melbourne - Outer East,211,Yarra Valley
+3802,VIC,2,metro,Melbourne - South East,212,Endeavour Hills - South
+3803,VIC,2,metro,Melbourne - South East,212,Hallam
+3804,VIC,2,metro,Melbourne - South East,212,Narre Warren North
+3805,VIC,2,metro,Melbourne - South East,212,Narre Warren South - West
+3806,VIC,2,metro,Melbourne - South East,212,Berwick - North
+3807,VIC,2,metro,Melbourne - South East,212,Beaconsfield - Officer
+3808,VIC,2,metro,Melbourne - South East,212,Emerald - Cockatoo
+3809,VIC,2,metro,Melbourne - South East,212,Beaconsfield - Officer
+3810,VIC,2,metro,Melbourne - South East,212,Pakenham - South West
+3812,VIC,2,regional,Melbourne - South East,212,Bunyip - Garfield
+3813,VIC,2,regional,Melbourne - South East,212,Bunyip - Garfield
+3814,VIC,2,regional,Melbourne - South East,212,Bunyip - Garfield
+3815,VIC,2,regional,Melbourne - South East,212,Bunyip - Garfield
+3816,VIC,2,regional,Latrobe - Gippsland,205,Drouin
+3818,VIC,2,regional,Latrobe - Gippsland,205,Drouin
+3820,VIC,2,regional,Latrobe - Gippsland,205,Warragul
+3821,VIC,2,regional,Latrobe - Gippsland,205,Warragul
+3822,VIC,2,regional,Latrobe - Gippsland,205,Warragul
+3823,VIC,2,regional,Latrobe - Gippsland,205,Trafalgar (Vic.)
+3824,VIC,2,regional,Latrobe - Gippsland,205,Trafalgar (Vic.)
+3825,VIC,2,regional,Latrobe - Gippsland,205,Moe - Newborough
+3831,VIC,2,regional,Latrobe - Gippsland,205,Mount Baw Baw Region
+3832,VIC,2,regional,Latrobe - Gippsland,205,Mount Baw Baw Region
+3833,VIC,2,regional,Latrobe - Gippsland,205,Mount Baw Baw Region
+3835,VIC,2,regional,Latrobe - Gippsland,205,Trafalgar (Vic.)
+3840,VIC,2,regional,Latrobe - Gippsland,205,Morwell
+3842,VIC,2,regional,Latrobe - Gippsland,205,Churchill
+3844,VIC,2,regional,Latrobe - Gippsland,205,Traralgon - West
+3847,VIC,2,regional,Latrobe - Gippsland,205,Rosedale
+3850,VIC,2,regional,Latrobe - Gippsland,205,Sale
+3851,VIC,2,regional,Latrobe - Gippsland,205,Longford - Loch Sport
+3852,VIC,2,regional,Latrobe - Gippsland,205,Longford - Loch Sport
+3854,VIC,2,regional,Latrobe - Gippsland,205,Yallourn North - Glengarry
+3856,VIC,2,regional,Latrobe - Gippsland,205,Yallourn North - Glengarry
+3857,VIC,2,regional,Latrobe - Gippsland,205,Rosedale
+3858,VIC,2,regional,Latrobe - Gippsland,205,Maffra
+3859,VIC,2,regional,Latrobe - Gippsland,205,Maffra
+3860,VIC,2,regional,Latrobe - Gippsland,205,Maffra
+3862,VIC,2,regional,Latrobe - Gippsland,205,Maffra
+3864,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3865,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3869,VIC,2,regional,Latrobe - Gippsland,205,Churchill
+3870,VIC,2,regional,Latrobe - Gippsland,205,Churchill
+3871,VIC,2,regional,Latrobe - Gippsland,205,Leongatha
+3873,VIC,2,regional,Latrobe - Gippsland,205,Rosedale
+3874,VIC,2,regional,Latrobe - Gippsland,205,Yarram
+3875,VIC,2,regional,Latrobe - Gippsland,205,Bairnsdale
+3878,VIC,2,regional,Latrobe - Gippsland,205,Paynesville
+3880,VIC,2,regional,Latrobe - Gippsland,205,Paynesville
+3882,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3885,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3886,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3887,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3888,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3889,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3890,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3891,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3892,VIC,2,regional,Latrobe - Gippsland,205,Orbost
+3893,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3895,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3896,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3898,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3900,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3902,VIC,2,regional,Latrobe - Gippsland,205,Bruthen - Omeo
+3903,VIC,2,regional,Latrobe - Gippsland,205,Lakes Entrance
+3904,VIC,2,regional,Latrobe - Gippsland,205,Lakes Entrance
+3909,VIC,2,regional,Latrobe - Gippsland,205,Lakes Entrance
+3910,VIC,2,metro,Mornington Peninsula,214,Langwarrin
+3911,VIC,2,metro,Mornington Peninsula,214,Somerville
+3912,VIC,2,metro,Mornington Peninsula,214,Somerville
+3913,VIC,2,metro,Mornington Peninsula,214,Somerville
+3915,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3916,VIC,2,regional,Mornington Peninsula,214,Flinders
+3918,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3919,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3920,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3921,VIC,2,regional,Latrobe - Gippsland,205,French Island
+3922,VIC,2,regional,Latrobe - Gippsland,205,Phillip Island
+3923,VIC,2,regional,Latrobe - Gippsland,205,Phillip Island
+3925,VIC,2,regional,Latrobe - Gippsland,205,Phillip Island
+3926,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3927,VIC,2,metro,Mornington Peninsula,214,Hastings - Somers
+3928,VIC,2,regional,Mornington Peninsula,214,Flinders
+3929,VIC,2,regional,Mornington Peninsula,214,Flinders
+3930,VIC,2,metro,Mornington Peninsula,214,Mount Eliza
+3931,VIC,2,metro,Mornington Peninsula,214,Mornington - East
+3933,VIC,2,metro,Mornington Peninsula,214,Somerville
+3934,VIC,2,metro,Mornington Peninsula,214,Mount Martha
+3936,VIC,2,metro,Mornington Peninsula,214,Dromana
+3937,VIC,2,regional,Mornington Peninsula,214,Flinders
+3938,VIC,2,metro,Mornington Peninsula,214,Rosebud - McCrae
+3939,VIC,2,metro,Mornington Peninsula,214,Rosebud - McCrae
+3940,VIC,2,metro,Mornington Peninsula,214,Rosebud - McCrae
+3941,VIC,2,metro,Mornington Peninsula,214,Point Nepean
+3942,VIC,2,metro,Mornington Peninsula,214,Point Nepean
+3943,VIC,2,metro,Mornington Peninsula,214,Point Nepean
+3944,VIC,2,metro,Mornington Peninsula,214,Point Nepean
+3945,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3946,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3950,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3951,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3953,VIC,2,regional,Latrobe - Gippsland,205,Leongatha
+3954,VIC,2,regional,Latrobe - Gippsland,205,Leongatha
+3956,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3957,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3958,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3959,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3960,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3962,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3964,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3965,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3966,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3967,VIC,2,regional,Latrobe - Gippsland,205,Foster
+3971,VIC,2,regional,Latrobe - Gippsland,205,Yarram
+3975,VIC,2,metro,Melbourne - South East,212,Lynbrook - Lyndhurst
+3976,VIC,2,metro,Melbourne - South East,212,Hampton Park - West
+3977,VIC,2,metro,Melbourne - South East,212,Cranbourne West
+3978,VIC,2,metro,Melbourne - South East,212,Clyde North - South
+3979,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3980,VIC,2,metro,Melbourne - South East,212,Pearcedale - Tooradin
+3981,VIC,2,regional,Melbourne - South East,212,Koo Wee Rup
+3984,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3987,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3988,VIC,2,regional,Latrobe - Gippsland,205,Korumburra
+3990,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3991,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3992,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3995,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+3996,VIC,2,regional,Latrobe - Gippsland,205,Wonthaggi - Inverloch
+4000,QLD,3,metro,Brisbane Inner City,305,Brisbane City
+4005,QLD,3,metro,Brisbane Inner City,305,New Farm
+4006,QLD,3,metro,Brisbane Inner City,305,Newstead - Bowen Hills
+4007,QLD,3,metro,Brisbane Inner City,305,Hamilton (Qld)
+4008,QLD,3,metro,Brisbane - North,302,Eagle Farm - Pinkenba
+4009,QLD,3,metro,Brisbane - North,302,Eagle Farm - Pinkenba
+4010,QLD,3,metro,Brisbane Inner City,305,Albion
+4011,QLD,3,metro,Brisbane Inner City,305,Clayfield
+4012,QLD,3,metro,Brisbane - North,302,Nundah
+4013,QLD,3,metro,Brisbane - North,302,Northgate - Virginia
+4014,QLD,3,metro,Brisbane - North,302,Nudgee - Banyo
+4017,QLD,3,metro,Brisbane - North,302,Bracken Ridge
+4018,QLD,3,metro,Brisbane - North,302,Taigum - Fitzgibbon
+4019,QLD,3,metro,Moreton Bay - North,313,Margate - Woody Point
+4020,QLD,3,metro,Moreton Bay - North,313,Scarborough - Newport
+4021,QLD,3,metro,Moreton Bay - North,313,Rothwell - Kippa-Ring
+4022,QLD,3,metro,Moreton Bay - North,313,Rothwell - Kippa-Ring
+4025,QLD,3,regional,Moreton Bay - North,313,Moreton Island
+4030,QLD,3,metro,Brisbane Inner City,305,Wooloowin - Lutwyche
+4031,QLD,3,metro,Brisbane - North,302,Kedron - Gordon Park
+4032,QLD,3,metro,Brisbane - North,302,Chermside
+4034,QLD,3,metro,Brisbane - North,302,Aspley
+4035,QLD,3,metro,Moreton Bay - South,314,Albany Creek
+4036,QLD,3,metro,Brisbane - North,302,Bald Hills
+4037,QLD,3,metro,Moreton Bay - South,314,Eatons Hill
+4051,QLD,3,metro,Brisbane Inner City,305,Enoggera
+4053,QLD,3,metro,Brisbane - North,302,Everton Park
+4054,QLD,3,metro,Moreton Bay - South,314,The Hills District
+4055,QLD,3,metro,Brisbane - West,304,Upper Kedron - Ferny Grove
+4059,QLD,3,metro,Brisbane Inner City,305,Kelvin Grove - Herston
+4060,QLD,3,metro,Brisbane Inner City,305,Ashgrove
+4061,QLD,3,metro,Brisbane - West,304,The Gap
+4064,QLD,3,metro,Brisbane Inner City,305,Paddington - Milton
+4065,QLD,3,metro,Brisbane Inner City,305,Bardon
+4066,QLD,3,metro,Brisbane Inner City,305,Toowong
+4067,QLD,3,metro,Brisbane - West,304,St Lucia
+4068,QLD,3,metro,Brisbane - West,304,Indooroopilly
+4069,QLD,3,metro,Brisbane - West,304,Chapel Hill
+4070,QLD,3,metro,Brisbane - West,304,Bellbowrie - Moggill
+4073,QLD,3,metro,Brisbane - West,304,Seventeen Mile Rocks - Sinnamon Park
+4074,QLD,3,metro,Brisbane - West,304,Jindalee - Mount Ommaney
+4075,QLD,3,metro,Brisbane - West,304,Oxley (Qld)
+4076,QLD,3,metro,Ipswich,310,Wacol
+4077,QLD,3,metro,Ipswich,310,Inala - Richlands
+4078,QLD,3,metro,Ipswich,310,Forest Lake - Ellen Grove
+4101,QLD,3,metro,Brisbane Inner City,305,West End
+4102,QLD,3,metro,Brisbane - South,303,Woolloongabba
+4103,QLD,3,metro,Brisbane - South,303,Annerley
+4104,QLD,3,metro,Brisbane - South,303,Yeronga
+4105,QLD,3,metro,Brisbane - South,303,Moorooka
+4106,QLD,3,metro,Brisbane - South,303,Rocklea - Acacia Ridge
+4107,QLD,3,metro,Brisbane - South,303,Salisbury - Nathan
+4108,QLD,3,metro,Brisbane - South,303,Coopers Plains
+4109,QLD,3,metro,Brisbane - South,303,Sunnybank Hills
+4110,QLD,3,metro,Brisbane - South,303,Pallara - Willawong
+4111,QLD,3,metro,Brisbane - South,303,Salisbury - Nathan
+4112,QLD,3,metro,Brisbane - South,303,Kuraby
+4113,QLD,3,metro,Brisbane - South,303,Eight Mile Plains
+4114,QLD,3,metro,Logan - Beaudesert,311,Woodridge
+4115,QLD,3,metro,Brisbane - South,303,Parkinson - Drewvale
+4116,QLD,3,metro,Brisbane - South,303,Calamvale - Stretton
+4117,QLD,3,metro,Logan - Beaudesert,311,Browns Plains
+4118,QLD,3,metro,Logan - Beaudesert,311,Regents Park - Heritage Park
+4119,QLD,3,metro,Logan - Beaudesert,311,Underwood
+4120,QLD,3,metro,Brisbane - South,303,Greenslopes
+4121,QLD,3,metro,Brisbane - South,303,Tarragindi
+4122,QLD,3,metro,Brisbane - South,303,Mount Gravatt
+4123,QLD,3,metro,Logan - Beaudesert,311,Rochedale South - Priestdale
+4124,QLD,3,metro,Logan - Beaudesert,311,Boronia Heights - Park Ridge
+4125,QLD,3,metro,Logan - Beaudesert,311,Boronia Heights - Park Ridge
+4127,QLD,3,metro,Logan - Beaudesert,311,Slacks Creek
+4128,QLD,3,metro,Logan - Beaudesert,311,Shailer Park
+4129,QLD,3,metro,Logan - Beaudesert,311,Loganholme - Tanah Merah
+4130,QLD,3,metro,Logan - Beaudesert,311,Cornubia - Carbrook
+4131,QLD,3,metro,Logan - Beaudesert,311,Loganlea
+4132,QLD,3,metro,Logan - Beaudesert,311,Marsden
+4133,QLD,3,metro,Logan - Beaudesert,311,Chambers Flat - Logan Reserve
+4151,QLD,3,metro,Brisbane - South,303,Coorparoo
+4152,QLD,3,metro,Brisbane - South,303,Carindale
+4153,QLD,3,metro,Brisbane - East,301,Belmont - Gumdale
+4154,QLD,3,metro,Brisbane - East,301,Wakerley
+4155,QLD,3,metro,Brisbane - East,301,Belmont - Gumdale
+4156,QLD,3,metro,Brisbane - South,303,Rochedale - Burbank
+4157,QLD,3,metro,Brisbane - East,301,Capalaba
+4158,QLD,3,metro,Brisbane - East,301,Thorneside
+4159,QLD,3,metro,Brisbane - East,301,Birkdale
+4160,QLD,3,metro,Brisbane - East,301,Wellington Point
+4161,QLD,3,metro,Brisbane - East,301,Alexandra Hills
+4163,QLD,3,metro,Brisbane - East,301,Cleveland
+4164,QLD,3,metro,Brisbane - East,301,Thornlands
+4165,QLD,3,metro,Brisbane - East,301,Redland Bay
+4169,QLD,3,metro,Brisbane Inner City,305,Kangaroo Point
+4170,QLD,3,metro,Brisbane Inner City,305,Morningside - Seven Hills
+4171,QLD,3,metro,Brisbane Inner City,305,Bulimba
+4172,QLD,3,metro,Brisbane - East,301,Murarrie
+4173,QLD,3,metro,Brisbane - East,301,Tingalpa
+4174,QLD,3,metro,Brisbane - East,301,Wynnum West - Hemmant
+4178,QLD,3,metro,Brisbane - East,301,Wynnum
+4179,QLD,3,metro,Brisbane - East,301,Manly West
+4183,QLD,3,regional,Brisbane - East,301,North Stradbroke Island
+4184,QLD,3,regional,Brisbane - East,301,Southern Moreton Bay Islands
+4205,QLD,3,metro,Logan - Beaudesert,311,Bethania - Waterford
+4207,QLD,3,metro,Logan - Beaudesert,311,Eagleby
+4208,QLD,3,metro,Gold Coast,309,Ormeau (East) - Stapylton
+4209,QLD,3,metro,Gold Coast,309,Upper Coomera - North
+4210,QLD,3,metro,Gold Coast,309,Oxenford - Maudsland
+4211,QLD,3,metro,Gold Coast,309,Nerang - Mount Nathan
+4212,QLD,3,metro,Gold Coast,309,Helensvale
+4213,QLD,3,metro,Gold Coast,309,Mudgeeraba - Bonogin
+4214,QLD,3,metro,Gold Coast,309,Ashmore
+4215,QLD,3,metro,Gold Coast,309,Southport - South
+4216,QLD,3,metro,Gold Coast,309,Coombabah
+4217,QLD,3,metro,Gold Coast,309,Surfers Paradise - South
+4218,QLD,3,metro,Gold Coast,309,Mermaid Beach - Broadbeach
+4220,QLD,3,metro,Gold Coast,309,Burleigh Waters
+4221,QLD,3,metro,Gold Coast,309,Palm Beach
+4223,QLD,3,metro,Gold Coast,309,Currumbin Waters
+4224,QLD,3,metro,Gold Coast,309,Currumbin - Tugun
+4225,QLD,3,metro,Gold Coast,309,Coolangatta
+4226,QLD,3,metro,Gold Coast,309,Robina - East
+4227,QLD,3,metro,Gold Coast,309,Varsity Lakes
+4228,QLD,3,metro,Gold Coast,309,Currumbin Valley - Tallebudgera
+4270,QLD,3,regional,Gold Coast,309,Tamborine - Canungra
+4272,QLD,3,metro,Gold Coast,309,Tamborine - Canungra
+4275,QLD,3,regional,Gold Coast,309,Tamborine - Canungra
+4280,QLD,3,metro,Logan - Beaudesert,311,Jimboomba - Glenlogan
+4285,QLD,3,regional,Logan - Beaudesert,311,Beaudesert
+4287,QLD,3,regional,Logan - Beaudesert,311,Beaudesert
+4300,QLD,3,metro,Ipswich,310,Springfield Lakes
+4301,QLD,3,metro,Ipswich,310,Redbank Plains
+4303,QLD,3,metro,Ipswich,310,Riverview
+4304,QLD,3,metro,Ipswich,310,Ipswich - East
+4305,QLD,3,metro,Ipswich,310,Raceview
+4306,QLD,3,metro,Ipswich,310,Ripley
+4307,QLD,3,regional,Ipswich,310,Boonah
+4309,QLD,3,regional,Ipswich,310,Boonah
+4310,QLD,3,regional,Ipswich,310,Boonah
+4311,QLD,3,regional,Ipswich,310,Lowood
+4312,QLD,3,regional,Ipswich,310,Esk
+4313,QLD,3,regional,Ipswich,310,Esk
+4314,QLD,3,regional,Wide Bay,319,Nanango
+4340,QLD,3,regional,Ipswich,310,Rosewood
+4341,QLD,3,regional,Ipswich,310,Lockyer Valley - East
+4342,QLD,3,regional,Ipswich,310,Lockyer Valley - East
+4343,QLD,3,regional,Toowoomba,317,Gatton
+4344,QLD,3,regional,Toowoomba,317,Lockyer Valley - West
+4346,QLD,3,regional,Ipswich,310,Rosewood
+4347,QLD,3,regional,Toowoomba,317,Lockyer Valley - West
+4350,QLD,3,regional,Toowoomba,317,Toowoomba - West
+4352,QLD,3,regional,Toowoomba,317,Highfields
+4353,QLD,3,regional,Darling Downs - Maranoa,307,Crows Nest - Rosalie
+4354,QLD,3,regional,Darling Downs - Maranoa,307,Crows Nest - Rosalie
+4355,QLD,3,regional,Darling Downs - Maranoa,307,Crows Nest - Rosalie
+4356,QLD,3,regional,Darling Downs - Maranoa,307,Pittsworth
+4357,QLD,3,regional,Darling Downs - Maranoa,307,Millmerran
+4358,QLD,3,regional,Toowoomba,317,Cambooya - Wyreema
+4359,QLD,3,regional,Darling Downs - Maranoa,307,Clifton - Greenmount
+4360,QLD,3,regional,Darling Downs - Maranoa,307,Clifton - Greenmount
+4361,QLD,3,regional,Darling Downs - Maranoa,307,Clifton - Greenmount
+4362,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - West
+4363,QLD,3,regional,Darling Downs - Maranoa,307,Pittsworth
+4364,QLD,3,regional,Darling Downs - Maranoa,307,Pittsworth
+4365,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - West
+4370,QLD,3,regional,Darling Downs - Maranoa,307,Warwick
+4371,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - East
+4372,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - East
+4373,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - East
+4374,QLD,3,regional,Darling Downs - Maranoa,307,Southern Downs - West
+4375,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4376,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4377,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4378,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4380,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe
+4381,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4382,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4383,QLD,3,regional,Darling Downs - Maranoa,307,Stanthorpe Surrounds
+4384,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4385,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4387,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4388,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4390,QLD,3,regional,Darling Downs - Maranoa,307,Goondiwindi
+4400,QLD,3,regional,Toowoomba,317,Gowrie (Qld)
+4401,QLD,3,regional,Darling Downs - Maranoa,307,Jondaryan
+4402,QLD,3,regional,Darling Downs - Maranoa,307,Crows Nest - Rosalie
+4403,QLD,3,regional,Darling Downs - Maranoa,307,Jondaryan
+4404,QLD,3,regional,Darling Downs - Maranoa,307,Jondaryan
+4405,QLD,3,regional,Darling Downs - Maranoa,307,Wambo
+4406,QLD,3,regional,Darling Downs - Maranoa,307,Wambo
+4407,QLD,3,regional,Darling Downs - Maranoa,307,Millmerran
+4408,QLD,3,regional,Darling Downs - Maranoa,307,Wambo
+4410,QLD,3,regional,Darling Downs - Maranoa,307,Wambo
+4411,QLD,3,regional,Darling Downs - Maranoa,307,Wambo
+4412,QLD,3,regional,Darling Downs - Maranoa,307,Chinchilla
+4413,QLD,3,regional,Darling Downs - Maranoa,307,Chinchilla
+4415,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4416,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4417,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4418,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4419,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4420,QLD,3,regional,Central Queensland,308,Banana
+4421,QLD,3,regional,Darling Downs - Maranoa,307,Tara
+4422,QLD,3,regional,Darling Downs - Maranoa,307,Tara
+4423,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4424,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4425,QLD,3,regional,Darling Downs - Maranoa,307,Miles - Wandoan
+4426,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4427,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4428,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4454,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4455,QLD,3,regional,Darling Downs - Maranoa,307,Roma
+4461,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4462,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4465,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4467,QLD,3,regional,Darling Downs - Maranoa,307,Roma Surrounds
+4468,QLD,3,regional,Queensland - Outback,315,Charleville
+4470,QLD,3,regional,Queensland - Outback,315,Charleville
+4472,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4474,QLD,3,regional,Queensland - Outback,315,Far South West
+4477,QLD,3,regional,Queensland - Outback,315,Charleville
+4478,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4479,QLD,3,regional,Queensland - Outback,315,Charleville
+4480,QLD,3,regional,Queensland - Outback,315,Far South West
+4481,QLD,3,regional,Queensland - Outback,315,Far Central West
+4482,QLD,3,regional,Queensland - Outback,315,Far Central West
+4486,QLD,3,regional,Darling Downs - Maranoa,307,Balonne
+4487,QLD,3,regional,Darling Downs - Maranoa,307,Balonne
+4488,QLD,3,regional,Darling Downs - Maranoa,307,Balonne
+4489,QLD,3,regional,Queensland - Outback,315,Far South West
+4490,QLD,3,regional,Queensland - Outback,315,Far South West
+4491,QLD,3,regional,Queensland - Outback,315,Far South West
+4492,QLD,3,regional,Queensland - Outback,315,Far South West
+4493,QLD,3,regional,Queensland - Outback,315,Far South West
+4494,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4496,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4497,QLD,3,regional,Darling Downs - Maranoa,307,Balonne
+4498,QLD,3,regional,Darling Downs - Maranoa,307,Inglewood - Waggamba
+4500,QLD,3,metro,Moreton Bay - South,314,Cashmere
+4501,QLD,3,metro,Moreton Bay - South,314,Lawnton
+4502,QLD,3,metro,Moreton Bay - South,314,Petrie
+4503,QLD,3,metro,Moreton Bay - South,314,Murrumba Downs - Griffin
+4504,QLD,3,metro,Moreton Bay - North,313,Narangba
+4505,QLD,3,metro,Moreton Bay - North,313,Burpengary
+4506,QLD,3,metro,Moreton Bay - North,313,Caboolture - South
+4507,QLD,3,regional,Moreton Bay - North,313,Bribie Island
+4508,QLD,3,metro,Moreton Bay - North,313,Deception Bay
+4509,QLD,3,metro,Moreton Bay - South,314,North Lakes
+4510,QLD,3,metro,Moreton Bay - North,313,Caboolture - East
+4511,QLD,3,metro,Moreton Bay - North,313,Beachmere - Sandstone Point
+4512,QLD,3,metro,Moreton Bay - North,313,Wamuran
+4514,QLD,3,regional,Moreton Bay - North,313,Woodford - D'Aguilar
+4515,QLD,3,regional,Moreton Bay - North,313,Kilcoy
+4516,QLD,3,metro,Moreton Bay - North,313,Elimbah
+4517,QLD,3,regional,Sunshine Coast,316,Glass House Mountains
+4518,QLD,3,regional,Sunshine Coast,316,Glass House Mountains
+4519,QLD,3,regional,Sunshine Coast,316,Beerwah
+4520,QLD,3,regional,Moreton Bay - South,314,Samford Valley
+4521,QLD,3,regional,Moreton Bay - South,314,Dayboro
+4550,QLD,3,regional,Sunshine Coast,316,Landsborough
+4551,QLD,3,metro,Sunshine Coast,316,Caloundra West - Baringa
+4552,QLD,3,regional,Sunshine Coast,316,Caloundra Hinterland
+4553,QLD,3,metro,Sunshine Coast,316,Landsborough
+4554,QLD,3,regional,Sunshine Coast,316,Palmwoods
+4555,QLD,3,metro,Sunshine Coast,316,Palmwoods
+4556,QLD,3,metro,Sunshine Coast,316,Buderim - North
+4557,QLD,3,metro,Sunshine Coast,316,Mountain Creek
+4558,QLD,3,metro,Sunshine Coast,316,Maroochydore - Kuluin
+4559,QLD,3,metro,Sunshine Coast,316,Nambour
+4560,QLD,3,metro,Sunshine Coast,316,Nambour
+4561,QLD,3,metro,Sunshine Coast,316,Eumundi - Yandina
+4562,QLD,3,metro,Sunshine Coast,316,Noosa Hinterland
+4563,QLD,3,regional,Sunshine Coast,316,Noosa Hinterland
+4564,QLD,3,metro,Sunshine Coast,316,Marcoola - Mudjimba
+4565,QLD,3,metro,Sunshine Coast,316,Tewantin
+4566,QLD,3,metro,Sunshine Coast,316,Noosaville
+4567,QLD,3,metro,Sunshine Coast,316,Sunshine Beach
+4568,QLD,3,regional,Sunshine Coast,316,Noosa Hinterland
+4569,QLD,3,regional,Sunshine Coast,316,Noosa Hinterland
+4570,QLD,3,regional,Wide Bay,319,Gympie Surrounds
+4571,QLD,3,regional,Sunshine Coast,316,Noosa Hinterland
+4572,QLD,3,metro,Sunshine Coast,316,Mooloolaba - Alexandra Headland
+4573,QLD,3,metro,Sunshine Coast,316,Coolum Beach
+4574,QLD,3,regional,Sunshine Coast,316,Maroochy Hinterland
+4575,QLD,3,metro,Sunshine Coast,316,Wurtulla - Birtinya
+4580,QLD,3,regional,Wide Bay,319,Cooloola
+4581,QLD,3,regional,Wide Bay,319,Cooloola
+4600,QLD,3,regional,Wide Bay,319,Kilkivan
+4601,QLD,3,regional,Wide Bay,319,Kilkivan
+4605,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4606,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4608,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4610,QLD,3,regional,Wide Bay,319,Kingaroy
+4611,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4612,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4613,QLD,3,regional,Wide Bay,319,Kingaroy Surrounds - North
+4614,QLD,3,regional,Darling Downs - Maranoa,307,Crows Nest - Rosalie
+4615,QLD,3,regional,Wide Bay,319,Nanango
+4620,QLD,3,regional,Wide Bay,319,Maryborough Surrounds - South
+4621,QLD,3,regional,Wide Bay,319,Gayndah - Mundubbera
+4625,QLD,3,regional,Wide Bay,319,Gayndah - Mundubbera
+4626,QLD,3,regional,Wide Bay,319,Gayndah - Mundubbera
+4627,QLD,3,regional,Wide Bay,319,Monto - Eidsvold
+4630,QLD,3,regional,Wide Bay,319,Monto - Eidsvold
+4650,QLD,3,regional,Wide Bay,319,Maryborough (Qld)
+4655,QLD,3,regional,Wide Bay,319,Pialba - Eli Waters
+4659,QLD,3,regional,Wide Bay,319,Burrum - Fraser
+4660,QLD,3,regional,Wide Bay,319,Bundaberg Surrounds - South
+4662,QLD,3,regional,Wide Bay,319,Burrum - Fraser
+4670,QLD,3,regional,Wide Bay,319,Bargara - Burnett Heads
+4671,QLD,3,regional,Wide Bay,319,Gin Gin
+4673,QLD,3,regional,Wide Bay,319,Bundaberg Surrounds - North
+4674,QLD,3,regional,Central Queensland,308,Agnes Water - Miriam Vale
+4676,QLD,3,regional,Central Queensland,308,Agnes Water - Miriam Vale
+4677,QLD,3,regional,Central Queensland,308,Agnes Water - Miriam Vale
+4678,QLD,3,regional,Central Queensland,308,Agnes Water - Miriam Vale
+4680,QLD,3,regional,Central Queensland,308,Clinton - New Auckland
+4694,QLD,3,regional,Central Queensland,308,Gladstone Hinterland
+4695,QLD,3,regional,Central Queensland,308,Gladstone Hinterland
+4697,QLD,3,regional,Central Queensland,308,Gladstone Hinterland
+4699,QLD,3,regional,Central Queensland,308,Bouldercombe
+4700,QLD,3,regional,Central Queensland,308,The Range - Allenstown
+4701,QLD,3,regional,Central Queensland,308,Norman Gardens
+4702,QLD,3,regional,Central Queensland,308,Gracemere
+4703,QLD,3,regional,Central Queensland,308,Yeppoon
+4704,QLD,3,regional,Central Queensland,308,Rockhampton Surrounds - North
+4705,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4706,QLD,3,regional,Central Queensland,308,Rockhampton Surrounds - North
+4707,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4709,QLD,3,regional,Central Queensland,308,Central Highlands - West
+4710,QLD,3,regional,Central Queensland,308,Emu Park
+4711,QLD,3,regional,Central Queensland,308,Glenlee - Rockyview
+4712,QLD,3,regional,Central Queensland,308,Central Highlands - East
+4713,QLD,3,regional,Central Queensland,308,Central Highlands - East
+4714,QLD,3,regional,Central Queensland,308,Mount Morgan
+4715,QLD,3,regional,Central Queensland,308,Biloela
+4716,QLD,3,regional,Central Queensland,308,Banana
+4717,QLD,3,regional,Central Queensland,308,Central Highlands - East
+4718,QLD,3,regional,Central Queensland,308,Banana
+4719,QLD,3,regional,Central Queensland,308,Banana
+4720,QLD,3,regional,Central Queensland,308,Emerald
+4721,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Clermont
+4722,QLD,3,regional,Central Queensland,308,Central Highlands - West
+4723,QLD,3,regional,Central Queensland,308,Central Highlands - West
+4724,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4725,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4726,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4727,QLD,3,regional,Queensland - Outback,315,Longreach
+4728,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4730,QLD,3,regional,Queensland - Outback,315,Longreach
+4731,QLD,3,regional,Queensland - Outback,315,Longreach
+4732,QLD,3,regional,Queensland - Outback,315,Barcaldine - Blackall
+4733,QLD,3,regional,Queensland - Outback,315,Far Central West
+4735,QLD,3,regional,Queensland - Outback,315,Far Central West
+4736,QLD,3,regional,Queensland - Outback,315,Far Central West
+4737,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Sarina
+4738,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Sarina
+4739,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4740,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Andergrove - Beaconsfield
+4741,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Seaforth - Calen
+4742,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4743,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4744,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Moranbah
+4745,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4746,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Broadsound - Nebo
+4750,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Shoal Point - Bucasia
+4751,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Walkerston - Eton
+4753,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Pioneer Valley
+4754,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Pioneer Valley
+4756,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Pioneer Valley
+4757,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Pioneer Valley
+4798,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Seaforth - Calen
+4799,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Seaforth - Calen
+4800,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Proserpine
+4802,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Airlie - Whitsundays
+4804,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Collinsville
+4805,QLD,3,regional,Mackay - Isaac - Whitsunday,312,Bowen
+4806,QLD,3,regional,Townsville,318,Burdekin
+4807,QLD,3,regional,Townsville,318,Ayr
+4808,QLD,3,regional,Townsville,318,Burdekin
+4809,QLD,3,regional,Townsville,318,Burdekin
+4810,QLD,3,regional,Townsville,318,Townsville City - North Ward
+4811,QLD,3,regional,Townsville,318,Oonoonba
+4812,QLD,3,regional,Townsville,318,Hermit Park - Rosslea
+4814,QLD,3,regional,Townsville,318,Annandale (Qld)
+4815,QLD,3,regional,Townsville,318,Condon - Rasmussen
+4816,QLD,3,regional,Townsville,318,Townsville - South
+4817,QLD,3,regional,Townsville,318,Kirwan - West
+4818,QLD,3,regional,Townsville,318,Burdell - Mount Low
+4819,QLD,3,regional,Townsville,318,Magnetic Island
+4820,QLD,3,regional,Townsville,318,Charters Towers
+4821,QLD,3,regional,Queensland - Outback,315,Northern Highlands
+4822,QLD,3,regional,Queensland - Outback,315,Northern Highlands
+4823,QLD,3,regional,Queensland - Outback,315,Northern Highlands
+4824,QLD,3,regional,Queensland - Outback,315,Mount Isa Surrounds
+4825,QLD,3,regional,Queensland - Outback,315,Mount Isa
+4828,QLD,3,regional,Queensland - Outback,315,Mount Isa Surrounds
+4829,QLD,3,regional,Queensland - Outback,315,Far Central West
+4830,QLD,3,regional,Queensland - Outback,315,Carpentaria
+4849,QLD,3,regional,Cairns,306,Tully
+4850,QLD,3,regional,Townsville,318,Ingham Surrounds
+4852,QLD,3,regional,Cairns,306,Tully
+4854,QLD,3,regional,Cairns,306,Tully
+4855,QLD,3,regional,Cairns,306,Johnstone
+4856,QLD,3,regional,Cairns,306,Johnstone
+4858,QLD,3,regional,Cairns,306,Johnstone
+4859,QLD,3,regional,Cairns,306,Johnstone
+4860,QLD,3,regional,Cairns,306,Innisfail
+4861,QLD,3,regional,Cairns,306,Babinda
+4865,QLD,3,regional,Cairns,306,Gordonvale - Trinity
+4868,QLD,3,regional,Cairns,306,Mount Sheridan
+4869,QLD,3,regional,Cairns,306,Edmonton
+4870,QLD,3,regional,Cairns,306,Cairns City
+4871,QLD,3,regional,Cairns,306,Johnstone
+4872,QLD,3,regional,Cairns,306,Tablelands
+4873,QLD,3,regional,Cairns,306,Daintree
+4874,QLD,3,regional,Queensland - Outback,315,Weipa
+4875,QLD,3,regional,Queensland - Outback,315,Torres Strait Islands
+4876,QLD,3,regional,Queensland - Outback,315,Northern Peninsula
+4877,QLD,3,regional,Cairns,306,Port Douglas
+4878,QLD,3,regional,Cairns,306,Trinity Beach - Smithfield
+4879,QLD,3,regional,Cairns,306,Clifton Beach - Kewarra Beach
+4880,QLD,3,regional,Cairns,306,Mareeba
+4881,QLD,3,regional,Cairns,306,Kuranda
+4882,QLD,3,regional,Cairns,306,Atherton
+4883,QLD,3,regional,Cairns,306,Atherton
+4884,QLD,3,regional,Cairns,306,Malanda - Yungaburra
+4885,QLD,3,regional,Cairns,306,Malanda - Yungaburra
+4886,QLD,3,regional,Cairns,306,Malanda - Yungaburra
+4887,QLD,3,regional,Cairns,306,Herberton
+4888,QLD,3,regional,Cairns,306,Herberton
+4890,QLD,3,regional,Queensland - Outback,315,Carpentaria
+4891,QLD,3,regional,Queensland - Outback,315,Carpentaria
+4892,QLD,3,regional,Queensland - Outback,315,Kowanyama - Pormpuraaw
+4895,QLD,3,regional,Queensland - Outback,315,Cape York
+5000,SA,4,metro,Adelaide - Central and Hills,401,Adelaide
+5006,SA,4,metro,Adelaide - Central and Hills,401,North Adelaide
+5007,SA,4,metro,Adelaide - West,404,Hindmarsh - Brompton
+5008,SA,4,metro,Adelaide - West,404,Hindmarsh - Brompton
+5009,SA,4,metro,Adelaide - West,404,Hindmarsh - Brompton
+5010,SA,4,metro,Adelaide - West,404,The Parks
+5011,SA,4,metro,Adelaide - West,404,Beverley
+5012,SA,4,metro,Adelaide - West,404,The Parks
+5013,SA,4,metro,Adelaide - West,404,Port Adelaide
+5014,SA,4,metro,Adelaide - West,404,Royal Park - Hendon - Albert Park
+5015,SA,4,metro,Adelaide - West,404,Largs Bay - Semaphore
+5016,SA,4,metro,Adelaide - West,404,Largs Bay - Semaphore
+5017,SA,4,metro,Adelaide - West,404,North Haven
+5018,SA,4,metro,Adelaide - West,404,North Haven
+5019,SA,4,metro,Adelaide - West,404,Largs Bay - Semaphore
+5020,SA,4,metro,Adelaide - West,404,West Lakes
+5021,SA,4,metro,Adelaide - West,404,West Lakes
+5022,SA,4,metro,Adelaide - West,404,Henley Beach
+5023,SA,4,metro,Adelaide - West,404,Seaton - Grange
+5024,SA,4,metro,Adelaide - West,404,Henley Beach
+5025,SA,4,metro,Adelaide - West,404,Flinders Park
+5031,SA,4,metro,Adelaide - West,404,Richmond (SA)
+5032,SA,4,metro,Adelaide - West,404,Lockleys
+5033,SA,4,metro,Adelaide - West,404,Richmond (SA)
+5034,SA,4,metro,Adelaide - Central and Hills,401,Goodwood - Millswood
+5035,SA,4,metro,Adelaide - Central and Hills,401,Goodwood - Millswood
+5037,SA,4,metro,Adelaide - West,404,Plympton
+5038,SA,4,metro,Adelaide - West,404,Plympton
+5039,SA,4,metro,Adelaide - South,403,Colonel Light Gardens
+5040,SA,4,metro,Adelaide - West,404,Plympton
+5041,SA,4,metro,Adelaide - South,403,Colonel Light Gardens
+5042,SA,4,metro,Adelaide - South,403,Panorama
+5043,SA,4,metro,Adelaide - South,403,Mitchell Park
+5044,SA,4,metro,Adelaide - South,403,Glenelg (SA)
+5045,SA,4,metro,Adelaide - South,403,Glenelg (SA)
+5046,SA,4,metro,Adelaide - South,403,Warradale
+5047,SA,4,metro,Adelaide - South,403,Warradale
+5048,SA,4,metro,Adelaide - South,403,Brighton (SA)
+5049,SA,4,metro,Adelaide - South,403,Marino - Seaview Downs
+5050,SA,4,metro,Adelaide - South,403,Bellevue Heights
+5051,SA,4,metro,Adelaide - South,403,Blackwood
+5052,SA,4,metro,Adelaide - South,403,Belair
+5061,SA,4,metro,Adelaide - Central and Hills,401,Unley - Parkside
+5062,SA,4,metro,Adelaide - South,403,Mitcham (SA)
+5063,SA,4,metro,Adelaide - Central and Hills,401,Unley - Parkside
+5064,SA,4,metro,Adelaide - Central and Hills,401,Beaumont - Glen Osmond
+5065,SA,4,metro,Adelaide - Central and Hills,401,Toorak Gardens
+5066,SA,4,metro,Adelaide - Central and Hills,401,Burnside - Wattle Park
+5067,SA,4,metro,Adelaide - Central and Hills,401,Norwood (SA)
+5068,SA,4,metro,Adelaide - Central and Hills,401,Burnside - Wattle Park
+5069,SA,4,metro,Adelaide - Central and Hills,401,St Peters - Marden
+5070,SA,4,metro,Adelaide - Central and Hills,401,Payneham - Felixstow
+5072,SA,4,metro,Adelaide - Central and Hills,401,Rostrevor - Magill
+5073,SA,4,metro,Adelaide - Central and Hills,401,Rostrevor - Magill
+5074,SA,4,metro,Adelaide - Central and Hills,401,Paradise - Newton
+5075,SA,4,metro,Adelaide - Central and Hills,401,Paradise - Newton
+5076,SA,4,metro,Adelaide - Central and Hills,401,Athelstone
+5081,SA,4,metro,Adelaide - Central and Hills,401,Walkerville
+5082,SA,4,metro,Adelaide - Central and Hills,401,Prospect
+5083,SA,4,metro,Adelaide - Central and Hills,401,Nailsworth - Broadview
+5084,SA,4,metro,Adelaide - North,402,Enfield - Blair Athol
+5085,SA,4,metro,Adelaide - North,402,Northgate - Northfield
+5086,SA,4,metro,Adelaide - North,402,Windsor Gardens
+5087,SA,4,metro,Adelaide - North,402,Windsor Gardens
+5088,SA,4,metro,Adelaide - North,402,Hope Valley - Modbury
+5089,SA,4,metro,Adelaide - North,402,Highbury - Dernancourt
+5090,SA,4,metro,Adelaide - North,402,Hope Valley - Modbury
+5091,SA,4,metro,Adelaide - North,402,St Agnes - Ridgehaven
+5092,SA,4,metro,Adelaide - North,402,Modbury Heights
+5093,SA,4,metro,Adelaide - North,402,Valley View - Gilles Plains
+5094,SA,4,metro,Adelaide - North,402,Enfield - Blair Athol
+5095,SA,4,metro,Adelaide - North,402,Mawson Lakes - Globe Derby Park
+5096,SA,4,metro,Adelaide - North,402,Para Hills
+5097,SA,4,metro,Adelaide - North,402,St Agnes - Ridgehaven
+5098,SA,4,metro,Adelaide - North,402,Ingle Farm
+5106,SA,4,metro,Adelaide - North,402,Salisbury
+5107,SA,4,metro,Adelaide - North,402,Parafield Gardens
+5108,SA,4,metro,Adelaide - North,402,Paralowie
+5109,SA,4,metro,Adelaide - North,402,Salisbury East
+5110,SA,4,metro,Adelaide - North,402,Salisbury North
+5111,SA,4,metro,Adelaide - North,402,Salisbury North
+5112,SA,4,metro,Adelaide - North,402,Elizabeth
+5113,SA,4,metro,Adelaide - North,402,Smithfield - Elizabeth North
+5114,SA,4,metro,Adelaide - North,402,Craigmore - Blakeview
+5115,SA,4,metro,Adelaide - North,402,Munno Para West - Angle Vale
+5116,SA,4,metro,Adelaide - North,402,Gawler - South
+5117,SA,4,metro,Adelaide - North,402,Munno Para West - Angle Vale
+5118,SA,4,metro,Adelaide - North,402,Gawler - South
+5120,SA,4,metro,Adelaide - North,402,Virginia - Waterloo Corner
+5121,SA,4,metro,Adelaide - North,402,Virginia - Waterloo Corner
+5125,SA,4,metro,Adelaide - North,402,Golden Grove
+5126,SA,4,metro,Adelaide - North,402,Redwood Park
+5127,SA,4,metro,Adelaide - North,402,Modbury Heights
+5131,SA,4,metro,Adelaide - Central and Hills,401,Adelaide Hills
+5132,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5133,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5134,SA,4,regional,Adelaide - Central and Hills,401,Uraidla - Summertown
+5136,SA,4,metro,Adelaide - Central and Hills,401,Uraidla - Summertown
+5137,SA,4,metro,Adelaide - Central and Hills,401,Uraidla - Summertown
+5138,SA,4,regional,Adelaide - Central and Hills,401,Uraidla - Summertown
+5139,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5140,SA,4,metro,Adelaide - Central and Hills,401,Uraidla - Summertown
+5141,SA,4,metro,Adelaide - Central and Hills,401,Uraidla - Summertown
+5142,SA,4,metro,Adelaide - Central and Hills,401,Uraidla - Summertown
+5144,SA,4,regional,Adelaide - Central and Hills,401,Uraidla - Summertown
+5150,SA,4,metro,Adelaide - South,403,Belair
+5151,SA,4,metro,Adelaide - Central and Hills,401,Aldgate - Stirling
+5152,SA,4,metro,Adelaide - Central and Hills,401,Aldgate - Stirling
+5153,SA,4,regional,Adelaide - Central and Hills,401,Aldgate - Stirling
+5154,SA,4,metro,Adelaide - Central and Hills,401,Aldgate - Stirling
+5155,SA,4,metro,Adelaide - Central and Hills,401,Aldgate - Stirling
+5156,SA,4,metro,Adelaide - Central and Hills,401,Aldgate - Stirling
+5157,SA,4,regional,Adelaide - South,403,Clarendon
+5158,SA,4,metro,Adelaide - South,403,Hallett Cove
+5159,SA,4,metro,Adelaide - South,403,Aberfoyle Park
+5160,SA,4,metro,Adelaide - South,403,Lonsdale
+5161,SA,4,metro,Adelaide - South,403,Reynella
+5162,SA,4,metro,Adelaide - South,403,Morphett Vale - East
+5163,SA,4,metro,Adelaide - South,403,Hackham West - Huntfield Heights
+5164,SA,4,metro,Adelaide - South,403,Christie Downs
+5165,SA,4,metro,Adelaide - South,403,Christies Beach
+5166,SA,4,metro,Adelaide - South,403,Christies Beach
+5167,SA,4,metro,Adelaide - South,403,Christies Beach
+5168,SA,4,metro,Adelaide - South,403,Christie Downs
+5169,SA,4,metro,Adelaide - South,403,Seaford - Seaford Meadows
+5170,SA,4,metro,Adelaide - South,403,Seaford Rise - Moana
+5171,SA,4,metro,Adelaide - South,403,McLaren Vale
+5172,SA,4,metro,Adelaide - South,403,Willunga
+5173,SA,4,metro,Adelaide - South,403,Aldinga
+5174,SA,4,metro,Adelaide - South,403,Aldinga
+5201,SA,4,regional,Adelaide - Central and Hills,401,Mount Barker Surrounds
+5202,SA,4,regional,South Australia - South East,407,Yankalilla
+5203,SA,4,regional,South Australia - South East,407,Yankalilla
+5204,SA,4,regional,South Australia - South East,407,Yankalilla
+5210,SA,4,regional,South Australia - South East,407,Strathalbyn Surrounds
+5211,SA,4,regional,South Australia - South East,407,Victor Harbor
+5212,SA,4,regional,South Australia - South East,407,Goolwa - Port Elliot
+5213,SA,4,regional,South Australia - South East,407,Goolwa - Port Elliot
+5214,SA,4,regional,South Australia - South East,407,Goolwa - Port Elliot
+5220,SA,4,regional,South Australia - South East,407,Kangaroo Island
+5221,SA,4,regional,South Australia - South East,407,Kangaroo Island
+5222,SA,4,regional,South Australia - South East,407,Kangaroo Island
+5223,SA,4,regional,South Australia - South East,407,Kangaroo Island
+5231,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5232,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5233,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5234,SA,4,regional,Adelaide - Central and Hills,401,Adelaide Hills
+5235,SA,4,regional,Barossa - Yorke - Mid North,405,Barossa - Angaston
+5236,SA,4,regional,South Australia - South East,407,Mannum
+5237,SA,4,regional,South Australia - South East,407,Mannum
+5238,SA,4,regional,South Australia - South East,407,Mannum
+5240,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5241,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5242,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5243,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5244,SA,4,regional,Adelaide - Central and Hills,401,Lobethal - Woodside
+5245,SA,4,metro,Adelaide - Central and Hills,401,Hahndorf - Echunga
+5250,SA,4,metro,Adelaide - Central and Hills,401,Mount Barker
+5251,SA,4,metro,Adelaide - Central and Hills,401,Mount Barker
+5252,SA,4,metro,Adelaide - Central and Hills,401,Nairne
+5253,SA,4,regional,South Australia - South East,407,Murray Bridge
+5254,SA,4,regional,South Australia - South East,407,Murray Bridge Surrounds
+5255,SA,4,regional,South Australia - South East,407,Strathalbyn
+5256,SA,4,regional,South Australia - South East,407,Strathalbyn Surrounds
+5259,SA,4,regional,South Australia - South East,407,The Coorong
+5260,SA,4,regional,South Australia - South East,407,The Coorong
+5261,SA,4,regional,South Australia - South East,407,The Coorong
+5262,SA,4,regional,South Australia - South East,407,Naracoorte Surrounds
+5263,SA,4,regional,South Australia - South East,407,Penola
+5264,SA,4,regional,South Australia - South East,407,The Coorong
+5265,SA,4,regional,South Australia - South East,407,The Coorong
+5266,SA,4,regional,South Australia - South East,407,The Coorong
+5267,SA,4,regional,South Australia - South East,407,Tatiara
+5268,SA,4,regional,South Australia - South East,407,Tatiara
+5269,SA,4,regional,South Australia - South East,407,Tatiara
+5270,SA,4,regional,South Australia - South East,407,Tatiara
+5271,SA,4,regional,South Australia - South East,407,Naracoorte
+5272,SA,4,regional,South Australia - South East,407,Naracoorte Surrounds
+5273,SA,4,regional,South Australia - South East,407,Naracoorte Surrounds
+5275,SA,4,regional,South Australia - South East,407,Kingston - Robe
+5276,SA,4,regional,South Australia - South East,407,Kingston - Robe
+5277,SA,4,regional,South Australia - South East,407,Penola
+5278,SA,4,regional,South Australia - South East,407,Penola
+5279,SA,4,regional,South Australia - South East,407,Wattle Range
+5280,SA,4,regional,South Australia - South East,407,Millicent
+5290,SA,4,regional,South Australia - South East,407,Mount Gambier - East
+5291,SA,4,regional,South Australia - South East,407,Grant
+5301,SA,4,regional,South Australia - South East,407,The Coorong
+5302,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5303,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5304,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5306,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5307,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5308,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5309,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5310,SA,4,regional,South Australia - South East,407,Karoonda - Lameroo
+5311,SA,4,regional,South Australia - South East,407,Loxton Surrounds
+5320,SA,4,regional,South Australia - South East,407,Waikerie
+5321,SA,4,regional,South Australia - South East,407,Waikerie
+5322,SA,4,regional,South Australia - South East,407,Waikerie
+5330,SA,4,regional,South Australia - South East,407,Waikerie
+5331,SA,4,regional,South Australia - South East,407,Loxton Surrounds
+5332,SA,4,regional,South Australia - South East,407,Loxton Surrounds
+5333,SA,4,regional,South Australia - South East,407,Loxton
+5340,SA,4,regional,South Australia - South East,407,Renmark Surrounds
+5341,SA,4,regional,South Australia - South East,407,Renmark
+5342,SA,4,regional,South Australia - South East,407,Barmera
+5343,SA,4,regional,South Australia - South East,407,Berri
+5344,SA,4,regional,South Australia - South East,407,Barmera
+5345,SA,4,regional,South Australia - South East,407,Barmera
+5346,SA,4,regional,South Australia - South East,407,Barmera
+5350,SA,4,regional,Barossa - Yorke - Mid North,405,Lyndoch
+5351,SA,4,regional,Barossa - Yorke - Mid North,405,Lyndoch
+5352,SA,4,regional,Barossa - Yorke - Mid North,405,Tanunda
+5353,SA,4,regional,Barossa - Yorke - Mid North,405,Barossa - Angaston
+5354,SA,4,regional,South Australia - South East,407,Mannum
+5355,SA,4,regional,Barossa - Yorke - Mid North,405,Nuriootpa
+5356,SA,4,regional,South Australia - South East,407,Waikerie
+5357,SA,4,regional,South Australia - South East,407,Waikerie
+5360,SA,4,regional,Barossa - Yorke - Mid North,405,Light
+5371,SA,4,regional,Adelaide - North,402,Gawler - North
+5372,SA,4,regional,Barossa - Yorke - Mid North,405,Light
+5373,SA,4,regional,Barossa - Yorke - Mid North,405,Light
+5374,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5381,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5400,SA,4,regional,Barossa - Yorke - Mid North,405,Light
+5401,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5410,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5411,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5412,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5413,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5414,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5415,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5416,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5417,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5418,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5419,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5420,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5421,SA,4,regional,Barossa - Yorke - Mid North,405,Goyder
+5422,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5431,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5432,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5433,SA,4,regional,South Australia - Outback,406,Quorn - Lake Gilles
+5434,SA,4,regional,South Australia - Outback,406,Quorn - Lake Gilles
+5440,SA,4,regional,South Australia - Outback,406,Outback
+5451,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5452,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5453,SA,4,regional,Barossa - Yorke - Mid North,405,Clare
+5454,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5455,SA,4,regional,Barossa - Yorke - Mid North,405,Gilbert Valley
+5460,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5461,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5462,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5464,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5470,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5471,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5472,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5473,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5480,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5481,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5482,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5483,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5485,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5490,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5491,SA,4,regional,Barossa - Yorke - Mid North,405,Jamestown
+5493,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5495,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5501,SA,4,regional,Adelaide - North,402,Lewiston - Two Wells
+5502,SA,4,regional,Barossa - Yorke - Mid North,405,Mallala
+5510,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5520,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5521,SA,4,regional,Barossa - Yorke - Mid North,405,Port Pirie Surrounds
+5522,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5523,SA,4,regional,Barossa - Yorke - Mid North,405,Port Pirie Surrounds
+5540,SA,4,regional,Barossa - Yorke - Mid North,405,Port Pirie
+5550,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5552,SA,4,regional,Barossa - Yorke - Mid North,405,Kadina
+5554,SA,4,regional,Barossa - Yorke - Mid North,405,Kadina
+5555,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5556,SA,4,regional,Barossa - Yorke - Mid North,405,Wallaroo
+5558,SA,4,regional,Barossa - Yorke - Mid North,405,Moonta
+5560,SA,4,regional,Barossa - Yorke - Mid North,405,Wakefield - Barunga West
+5570,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5571,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5572,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5573,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5575,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5576,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - South
+5577,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - South
+5580,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5581,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - North
+5582,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - South
+5583,SA,4,regional,Barossa - Yorke - Mid North,405,Yorke Peninsula - South
+5600,SA,4,regional,South Australia - Outback,406,Whyalla
+5601,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5602,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5603,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5604,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5605,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5606,SA,4,regional,South Australia - Outback,406,Port Lincoln
+5607,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5608,SA,4,regional,South Australia - Outback,406,Whyalla
+5609,SA,4,regional,South Australia - Outback,406,Whyalla
+5611,SA,4,regional,South Australia - Outback,406,Quorn - Lake Gilles
+5630,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5631,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5632,SA,4,regional,South Australia - Outback,406,Eyre Peninsula
+5633,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5640,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5641,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5642,SA,4,regional,South Australia - Outback,406,Kimba - Cleve - Franklin Harbour
+5650,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5651,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5652,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5653,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5654,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5655,SA,4,regional,South Australia - Outback,406,West Coast (SA)
+5660,SA,4,regional,South Australia - Outback,406,West Coast (SA)
+5661,SA,4,regional,South Australia - Outback,406,West Coast (SA)
+5670,SA,4,regional,South Australia - Outback,406,Le Hunte - Elliston
+5671,SA,4,regional,South Australia - Outback,406,West Coast (SA)
+5680,SA,4,regional,South Australia - Outback,406,West Coast (SA)
+5690,SA,4,regional,South Australia - Outback,406,Ceduna
+5700,SA,4,regional,South Australia - Outback,406,Port Augusta
+5701,SA,4,regional,Barossa - Yorke - Mid North,405,Peterborough - Mount Remarkable
+5710,SA,4,regional,South Australia - Outback,406,Port Augusta
+5713,SA,4,regional,South Australia - Outback,406,Outback
+5715,SA,4,regional,South Australia - Outback,406,Quorn - Lake Gilles
+5717,SA,4,regional,South Australia - Outback,406,Quorn - Lake Gilles
+5719,SA,4,regional,South Australia - Outback,406,Outback
+5720,SA,4,regional,South Australia - Outback,406,Outback
+5722,SA,4,regional,South Australia - Outback,406,Outback
+5723,SA,4,regional,South Australia - Outback,406,Coober Pedy
+5724,SA,4,regional,South Australia - Outback,406,Outback
+5725,SA,4,regional,South Australia - Outback,406,Roxby Downs
+5730,SA,4,regional,South Australia - Outback,406,Outback
+5731,SA,4,regional,South Australia - Outback,406,Outback
+5732,SA,4,regional,South Australia - Outback,406,Outback
+5733,SA,4,regional,South Australia - Outback,406,Outback
+5734,SA,4,regional,South Australia - Outback,406,Outback
+5950,SA,4,metro,Adelaide - West,404,Adelaide Airport
+6000,WA,5,metro,Perth - Inner,503,Perth (West) - Northbridge
+6003,WA,5,metro,Perth - Inner,503,Perth (North) - Highgate
+6004,WA,5,metro,Perth - Inner,503,East Perth
+6005,WA,5,metro,Perth - Inner,503,Perth (West) - Northbridge
+6006,WA,5,metro,Perth - Inner,503,North Perth
+6007,WA,5,metro,Perth - Inner,503,Wembley - West Leederville - Glendalough
+6008,WA,5,metro,Perth - Inner,503,Subiaco - Shenton Park
+6009,WA,5,metro,Perth - Inner,503,Nedlands - Dalkeith - Crawley
+6010,WA,5,metro,Perth - Inner,503,Swanbourne - Mount Claremont
+6011,WA,5,metro,Perth - Inner,503,Cottesloe
+6012,WA,5,metro,Perth - Inner,503,Mosman Park - Peppermint Grove
+6014,WA,5,metro,Perth - Inner,503,Wembley - West Leederville - Glendalough
+6015,WA,5,metro,Perth - Inner,503,City Beach
+6016,WA,5,metro,Perth - Inner,503,Mount Hawthorn - Leederville
+6017,WA,5,metro,Perth - North West,505,Stirling - Osborne Park
+6018,WA,5,metro,Perth - North West,505,Innaloo - Doubleview
+6019,WA,5,metro,Perth - North West,505,Scarborough
+6020,WA,5,metro,Perth - North West,505,Sorrento - Marmion
+6021,WA,5,metro,Perth - North West,505,Balcatta - Hamersley
+6022,WA,5,metro,Perth - North West,505,Balcatta - Hamersley
+6023,WA,5,metro,Perth - North West,505,Duncraig
+6024,WA,5,metro,Perth - North West,505,Greenwood - Warwick
+6025,WA,5,metro,Perth - North West,505,Hillarys
+6026,WA,5,metro,Perth - North West,505,Kingsley
+6027,WA,5,metro,Perth - North West,505,Joondalup - Edgewater
+6028,WA,5,metro,Perth - North West,505,Currambine - Kinross
+6029,WA,5,metro,Perth - North West,505,Trigg - North Beach - Watermans Bay
+6030,WA,5,metro,Perth - North West,505,Mindarie - Quinns Rocks - Jindalee
+6031,WA,5,metro,Perth - North West,505,Carramar
+6032,WA,5,metro,Perth - North West,505,Carabooda - Pinjar
+6033,WA,5,metro,Perth - North West,505,Carabooda - Pinjar
+6034,WA,5,metro,Perth - North West,505,Alkimos - Eglinton
+6035,WA,5,metro,Perth - North West,505,Yanchep
+6036,WA,5,metro,Perth - North West,505,Butler - Merriwa - Ridgewood
+6037,WA,5,regional,Perth - North West,505,Two Rocks
+6038,WA,5,metro,Perth - North West,505,Alkimos - Eglinton
+6041,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6042,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6043,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6044,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6050,WA,5,metro,Perth - Inner,503,Mount Lawley - Inglewood
+6051,WA,5,metro,Perth - North East,504,Maylands
+6052,WA,5,metro,Perth - North East,504,Bayswater - Embleton - Bedford
+6053,WA,5,metro,Perth - North East,504,Bayswater - Embleton - Bedford
+6054,WA,5,metro,Perth - North East,504,Bassendean - Eden Hill - Ashfield
+6055,WA,5,metro,Perth - North East,504,Brabham - Henley Brook
+6056,WA,5,metro,Perth - North East,504,Swan View - Greenmount - Midvale
+6057,WA,5,metro,Perth - South East,506,High Wycombe
+6058,WA,5,metro,Perth - South East,506,Forrestfield - Wattle Grove
+6059,WA,5,metro,Perth - North West,505,Dianella - South
+6060,WA,5,metro,Perth - North West,505,Tuart Hill - Joondanna
+6061,WA,5,metro,Perth - North West,505,Balga - Mirrabooka
+6062,WA,5,metro,Perth - North East,504,Morley
+6063,WA,5,metro,Perth - North East,504,Beechboro
+6064,WA,5,metro,Perth - North West,505,Alexander Heights - Koondoola
+6065,WA,5,metro,Perth - North West,505,Landsdale
+6066,WA,5,metro,Perth - North East,504,Ballajura
+6067,WA,5,metro,Perth - North East,504,Ballajura
+6068,WA,5,metro,Perth - North East,504,Beechboro
+6069,WA,5,metro,Perth - North East,504,Ellenbrook
+6070,WA,5,metro,Perth - North East,504,Glen Forrest - Darlington
+6071,WA,5,metro,Perth - North East,504,Glen Forrest - Darlington
+6072,WA,5,metro,Perth - North East,504,Mundaring
+6073,WA,5,metro,Perth - North East,504,Mundaring
+6074,WA,5,metro,Perth - North East,504,Mundaring
+6076,WA,5,metro,Perth - South East,506,Lesmurdie - Bickley - Carmel
+6077,WA,5,metro,Perth - North West,505,Hocking - Pearsall
+6078,WA,5,metro,Perth - North West,505,Tapping - Ashby - Sinagra
+6079,WA,5,metro,Perth - North West,505,Hocking - Pearsall
+6081,WA,5,metro,Perth - North East,504,Mundaring
+6082,WA,5,metro,Perth - North East,504,Mundaring
+6083,WA,5,regional,Perth - North East,504,Gidgegannup
+6084,WA,5,regional,Perth - North East,504,Bullsbrook
+6090,WA,5,metro,Perth - North East,504,Malaga
+6100,WA,5,metro,Perth - South East,506,Victoria Park - Lathlain - Burswood
+6101,WA,5,metro,Perth - South East,506,East Victoria Park - Carlisle
+6102,WA,5,metro,Perth - South East,506,Bentley - Wilson - St James
+6103,WA,5,metro,Perth - South East,506,Rivervale
+6104,WA,5,metro,Perth - South East,506,Belmont - Ascot - Redcliffe
+6105,WA,5,metro,Perth - South East,506,Cloverdale
+6106,WA,5,metro,Perth - South East,506,Welshpool
+6107,WA,5,metro,Perth - South East,506,Cannington - Queens Park
+6108,WA,5,metro,Perth - South East,506,Thornlie
+6109,WA,5,metro,Perth - South East,506,Maddington - Orange Grove - Martin
+6110,WA,5,metro,Perth - South East,506,Huntingdale - Southern River
+6111,WA,5,metro,Perth - South East,506,Kelmscott
+6112,WA,5,metro,Perth - South East,506,Armadale - Wungong - Brookdale
+6121,WA,5,metro,Perth - South East,506,Mundijong
+6122,WA,5,metro,Perth - South East,506,Byford
+6123,WA,5,metro,Perth - South East,506,Mundijong
+6124,WA,5,regional,Perth - South East,506,Serpentine - Jarrahdale
+6125,WA,5,regional,Perth - South East,506,Serpentine - Jarrahdale
+6126,WA,5,regional,Perth - South East,506,Serpentine - Jarrahdale
+6147,WA,5,metro,Perth - South East,506,Parkwood - Ferndale - Lynwood
+6148,WA,5,metro,Perth - South East,506,Riverton - Shelley - Rossmoyne
+6149,WA,5,metro,Perth - South West,507,Leeming
+6150,WA,5,metro,Perth - South West,507,Winthrop
+6151,WA,5,metro,Perth - South East,506,South Perth - Kensington
+6152,WA,5,metro,Perth - South East,506,Como
+6153,WA,5,metro,Perth - South West,507,Applecross - Ardross
+6154,WA,5,metro,Perth - South West,507,Booragoon
+6155,WA,5,metro,Perth - South East,506,Canning Vale - East
+6156,WA,5,metro,Perth - South West,507,Melville
+6157,WA,5,metro,Perth - South West,507,Bicton - Palmyra
+6158,WA,5,metro,Perth - South West,507,East Fremantle
+6159,WA,5,metro,Perth - South West,507,Fremantle
+6160,WA,5,metro,Perth - South West,507,Fremantle
+6161,WA,5,regional,Perth - South West,507,Fremantle
+6162,WA,5,metro,Perth - South West,507,Fremantle - South
+6163,WA,5,metro,Perth - South West,507,Hamilton Hill
+6164,WA,5,metro,Perth - South West,507,Banjup
+6165,WA,5,metro,Perth - South West,507,Hope Valley - Postans
+6166,WA,5,metro,Perth - South West,507,Coogee
+6167,WA,5,metro,Perth - South West,507,Parmelia - Orelia
+6168,WA,5,metro,Perth - South West,507,Rockingham
+6169,WA,5,metro,Perth - South West,507,Waikiki
+6170,WA,5,metro,Perth - South West,507,Wellard (West) - Bertram
+6171,WA,5,metro,Perth - South West,507,Baldivis - South
+6172,WA,5,metro,Perth - South West,507,Port Kennedy
+6173,WA,5,metro,Perth - South West,507,Singleton - Golden Bay - Secret Harbour
+6174,WA,5,metro,Perth - South West,507,Singleton - Golden Bay - Secret Harbour
+6175,WA,5,metro,Perth - South West,507,Singleton - Golden Bay - Secret Harbour
+6176,WA,5,metro,Perth - South West,507,Karnup
+6180,WA,5,metro,Mandurah,502,Mandurah - North
+6181,WA,5,metro,Mandurah,502,Mandurah - North
+6182,WA,5,metro,Mandurah,502,Mandurah - North
+6207,WA,5,regional,Mandurah,502,Pinjarra
+6208,WA,5,metro,Mandurah,502,Pinjarra
+6209,WA,5,metro,Mandurah,502,Mandurah - East
+6210,WA,5,metro,Mandurah,502,Halls Head - Erskine
+6211,WA,5,metro,Mandurah,502,Dawesville - Bouvard
+6213,WA,5,regional,Western Australia - Wheat Belt,509,Murray
+6214,WA,5,regional,Mandurah,502,Pinjarra
+6215,WA,5,regional,Bunbury,501,Waroona
+6218,WA,5,regional,Bunbury,501,Harvey
+6219,WA,5,regional,Bunbury,501,Harvey
+6220,WA,5,regional,Bunbury,501,Harvey
+6221,WA,5,regional,Bunbury,501,Harvey
+6223,WA,5,regional,Bunbury,501,Harvey
+6224,WA,5,regional,Bunbury,501,Harvey
+6225,WA,5,regional,Bunbury,501,Collie
+6226,WA,5,regional,Bunbury,501,Harvey
+6227,WA,5,regional,Bunbury,501,Dardanup
+6228,WA,5,regional,Bunbury,501,Dardanup
+6229,WA,5,regional,Bunbury,501,Dardanup
+6230,WA,5,regional,Bunbury,501,South Bunbury - Bunbury
+6232,WA,5,regional,Bunbury,501,Eaton - Pelican Point
+6233,WA,5,regional,Bunbury,501,Australind - Leschenault
+6236,WA,5,regional,Bunbury,501,Dardanup
+6237,WA,5,regional,Bunbury,501,Capel
+6239,WA,5,regional,Bunbury,501,Donnybrook - Balingup
+6240,WA,5,regional,Bunbury,501,Donnybrook - Balingup
+6243,WA,5,regional,Bunbury,501,Bridgetown - Boyup Brook
+6244,WA,5,regional,Bunbury,501,Bridgetown - Boyup Brook
+6251,WA,5,regional,Bunbury,501,Donnybrook - Balingup
+6252,WA,5,regional,Bunbury,501,Donnybrook - Balingup
+6253,WA,5,regional,Bunbury,501,Donnybrook - Balingup
+6254,WA,5,regional,Bunbury,501,Bridgetown - Boyup Brook
+6255,WA,5,regional,Bunbury,501,Bridgetown - Boyup Brook
+6256,WA,5,regional,Bunbury,501,Bridgetown - Boyup Brook
+6258,WA,5,regional,Bunbury,501,Manjimup
+6260,WA,5,regional,Bunbury,501,Pemberton
+6262,WA,5,regional,Bunbury,501,Pemberton
+6271,WA,5,regional,Bunbury,501,Capel
+6275,WA,5,regional,Bunbury,501,Pemberton
+6280,WA,5,regional,Bunbury,501,Busselton - West
+6281,WA,5,regional,Bunbury,501,Busselton Surrounds
+6282,WA,5,regional,Bunbury,501,Busselton Surrounds
+6284,WA,5,regional,Bunbury,501,Augusta
+6285,WA,5,regional,Bunbury,501,Margaret River
+6286,WA,5,regional,Bunbury,501,Augusta
+6288,WA,5,regional,Bunbury,501,Augusta
+6290,WA,5,regional,Bunbury,501,Augusta
+6302,WA,5,regional,Western Australia - Wheat Belt,509,York - Beverley
+6304,WA,5,regional,Western Australia - Wheat Belt,509,York - Beverley
+6306,WA,5,regional,Western Australia - Wheat Belt,509,Brookton
+6308,WA,5,regional,Western Australia - Wheat Belt,509,Brookton
+6309,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6311,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6312,WA,5,regional,Western Australia - Wheat Belt,509,Narrogin
+6313,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6315,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6316,WA,5,regional,Western Australia - Wheat Belt,509,Katanning
+6317,WA,5,regional,Western Australia - Wheat Belt,509,Katanning
+6318,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6320,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6321,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6322,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6323,WA,5,regional,Western Australia - Wheat Belt,509,Plantagenet
+6324,WA,5,regional,Western Australia - Wheat Belt,509,Plantagenet
+6326,WA,5,regional,Western Australia - Wheat Belt,509,Plantagenet
+6327,WA,5,regional,Western Australia - Wheat Belt,509,Albany Surrounds
+6328,WA,5,regional,Western Australia - Wheat Belt,509,Albany Surrounds
+6330,WA,5,regional,Western Australia - Wheat Belt,509,Albany
+6333,WA,5,regional,Western Australia - Wheat Belt,509,Denmark
+6335,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6336,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6337,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6338,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6341,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6343,WA,5,regional,Western Australia - Wheat Belt,509,Gnowangerup
+6346,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6348,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6350,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6351,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6352,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6353,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6355,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6356,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6357,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6358,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6359,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6361,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6363,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6365,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6367,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6368,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6369,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6370,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6372,WA,5,regional,Western Australia - Wheat Belt,509,Kulin
+6373,WA,5,regional,Western Australia - Wheat Belt,509,Brookton
+6375,WA,5,regional,Western Australia - Wheat Belt,509,Brookton
+6383,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6384,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6385,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6386,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6390,WA,5,regional,Western Australia - Wheat Belt,509,Murray
+6391,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6392,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6393,WA,5,regional,Western Australia - Wheat Belt,509,Wagin
+6394,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6395,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6396,WA,5,regional,Western Australia - Wheat Belt,509,Kojonup
+6397,WA,5,regional,Western Australia - Wheat Belt,509,Plantagenet
+6398,WA,5,regional,Bunbury,501,Pemberton
+6401,WA,5,regional,Western Australia - Wheat Belt,509,Northam
+6403,WA,5,regional,Western Australia - Wheat Belt,509,Northam
+6405,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6407,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6409,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6410,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6411,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6412,WA,5,regional,Western Australia - Wheat Belt,509,Cunderdin
+6413,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6414,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6415,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6418,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6419,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6420,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6421,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6422,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6423,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6424,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6425,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6426,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6427,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6428,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6429,WA,5,regional,Western Australia - Outback (South),511,Kambalda - Coolgardie - Norseman
+6430,WA,5,regional,Western Australia - Outback (South),511,Kalgoorlie
+6431,WA,5,regional,Western Australia - Outback (South),511,Leinster - Leonora
+6432,WA,5,regional,Western Australia - Outback (South),511,Boulder
+6434,WA,5,regional,Western Australia - Outback (South),511,Kambalda - Coolgardie - Norseman
+6436,WA,5,regional,Western Australia - Outback (South),511,Leinster - Leonora
+6437,WA,5,regional,Western Australia - Outback (South),511,Leinster - Leonora
+6438,WA,5,regional,Western Australia - Outback (South),511,Leinster - Leonora
+6440,WA,5,regional,Western Australia - Outback (South),511,Leinster - Leonora
+6442,WA,5,regional,Western Australia - Outback (South),511,Kambalda - Coolgardie - Norseman
+6443,WA,5,regional,Western Australia - Outback (South),511,Kambalda - Coolgardie - Norseman
+6445,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6446,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6447,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6448,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6450,WA,5,regional,Western Australia - Outback (South),511,Esperance
+6452,WA,5,regional,Western Australia - Outback (South),511,Esperance Surrounds
+6460,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6461,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6462,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6463,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6465,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6466,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6467,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6468,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6470,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6472,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6473,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6475,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6476,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6477,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6479,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6480,WA,5,regional,Western Australia - Wheat Belt,509,Merredin
+6484,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6485,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6487,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6488,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6489,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6490,WA,5,regional,Western Australia - Wheat Belt,509,Mukinbudin
+6501,WA,5,regional,Western Australia - Wheat Belt,509,Chittering
+6502,WA,5,regional,Western Australia - Wheat Belt,509,Chittering
+6503,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6504,WA,5,regional,Western Australia - Wheat Belt,509,Chittering
+6505,WA,5,regional,Western Australia - Wheat Belt,509,Chittering
+6506,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6507,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6509,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6510,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6511,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6512,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6513,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6514,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6515,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6516,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6517,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6518,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6519,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6521,WA,5,regional,Western Australia - Wheat Belt,509,Gingin - Dandaragan
+6522,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6525,WA,5,regional,Western Australia - Outback (South),511,Irwin
+6528,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6530,WA,5,regional,Western Australia - Outback (South),511,Geraldton
+6532,WA,5,regional,Western Australia - Outback (South),511,Geraldton - North
+6535,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6536,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6537,WA,5,regional,Western Australia - Outback (South),511,Exmouth
+6556,WA,5,regional,Perth - North East,504,Chidlow
+6558,WA,5,regional,Perth - North East,504,Chidlow
+6560,WA,5,regional,Western Australia - Wheat Belt,509,Northam
+6562,WA,5,regional,Western Australia - Wheat Belt,509,Northam
+6564,WA,5,regional,Western Australia - Wheat Belt,509,Northam
+6566,WA,5,regional,Western Australia - Wheat Belt,509,Toodyay
+6567,WA,5,regional,Western Australia - Wheat Belt,509,Toodyay
+6568,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6569,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6571,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6572,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6574,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6575,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6603,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6605,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6606,WA,5,regional,Western Australia - Wheat Belt,509,Dowerin
+6608,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6609,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6612,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6613,WA,5,regional,Western Australia - Wheat Belt,509,Moora
+6614,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6616,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6620,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6623,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6625,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6627,WA,5,regional,Western Australia - Outback (South),511,Morawa
+6628,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6630,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6631,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6632,WA,5,regional,Western Australia - Outback (South),511,Northampton - Mullewa - Greenough
+6635,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6638,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6639,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6640,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6642,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6646,WA,5,regional,Western Australia - Outback (South),511,Meekatharra
+6701,WA,5,regional,Western Australia - Outback (South),511,Carnarvon
+6705,WA,5,regional,Western Australia - Outback (South),511,Exmouth
+6707,WA,5,regional,Western Australia - Outback (South),511,Exmouth
+6710,WA,5,regional,Western Australia - Outback (North),510,Ashburton (WA)
+6712,WA,5,regional,Western Australia - Outback (North),510,Ashburton (WA)
+6713,WA,5,regional,Western Australia - Outback (North),510,Roebourne
+6714,WA,5,regional,Western Australia - Outback (North),510,Karratha
+6716,WA,5,regional,Western Australia - Outback (North),510,Ashburton (WA)
+6718,WA,5,regional,Western Australia - Outback (North),510,Roebourne
+6720,WA,5,regional,Western Australia - Outback (North),510,Roebourne
+6721,WA,5,regional,Western Australia - Outback (North),510,Port Hedland
+6722,WA,5,regional,Western Australia - Outback (North),510,South Hedland
+6725,WA,5,regional,Western Australia - Outback (North),510,Broome
+6726,WA,5,regional,Western Australia - Outback (North),510,Broome
+6728,WA,5,regional,Western Australia - Outback (North),510,Derby - West Kimberley
+6740,WA,5,regional,Western Australia - Outback (North),510,Kununurra
+6743,WA,5,regional,Western Australia - Outback (North),510,Kununurra
+6751,WA,5,regional,Western Australia - Outback (North),510,Ashburton (WA)
+6753,WA,5,regional,Western Australia - Outback (North),510,Newman
+6754,WA,5,regional,Western Australia - Outback (North),510,Ashburton (WA)
+6758,WA,5,regional,Western Australia - Outback (North),510,East Pilbara
+6760,WA,5,regional,Western Australia - Outback (North),510,East Pilbara
+6762,WA,5,regional,Western Australia - Outback (North),510,East Pilbara
+6765,WA,5,regional,Western Australia - Outback (North),510,Derby - West Kimberley
+6770,WA,5,regional,Western Australia - Outback (North),510,Halls Creek
+6798,,9,regional,Other Territories,901,Christmas Island
+6799,,9,regional,Other Territories,901,Cocos (Keeling) Islands
+7000,TAS,6,regional,Hobart,601,Hobart
+7004,TAS,6,regional,Hobart,601,South Hobart - Fern Tree
+7005,TAS,6,regional,Hobart,601,Sandy Bay
+7007,TAS,6,regional,Hobart,601,Mount Nelson - Dynnyrne
+7008,TAS,6,regional,Hobart,601,Lenah Valley - Mount Stuart
+7009,TAS,6,regional,Hobart,601,Moonah
+7010,TAS,6,regional,Hobart,601,Glenorchy
+7011,TAS,6,regional,Hobart,601,Claremont (Tas.)
+7012,TAS,6,regional,Hobart,601,Berriedale - Chigwell
+7015,TAS,6,regional,Hobart,601,Lindisfarne - Rose Bay
+7016,TAS,6,regional,Hobart,601,Risdon Vale
+7017,TAS,6,regional,Hobart,601,Old Beach - Otago
+7018,TAS,6,regional,Hobart,601,Howrah - Tranmere
+7019,TAS,6,regional,Hobart,601,Rokeby
+7020,TAS,6,regional,Hobart,601,South Arm
+7021,TAS,6,regional,Hobart,601,Cambridge
+7022,TAS,6,regional,Hobart,601,South Arm
+7023,TAS,6,regional,Hobart,601,South Arm
+7024,TAS,6,regional,Hobart,601,South Arm
+7025,TAS,6,regional,Hobart,601,Sorell - Richmond
+7026,TAS,6,regional,South East,603,Southern Midlands
+7027,TAS,6,regional,South East,603,Southern Midlands
+7030,TAS,6,regional,Hobart,601,Bridgewater - Gagebrook
+7050,TAS,6,regional,Hobart,601,Kingston - Huntingfield
+7052,TAS,6,regional,Hobart,601,Kingston Beach - Blackmans Bay
+7053,TAS,6,regional,Hobart,601,Taroona - Bonnet Hill
+7054,TAS,6,regional,Hobart,601,Margate - Snug
+7055,TAS,6,regional,Hobart,601,Kingston - Huntingfield
+7109,TAS,6,regional,South East,603,Huonville - Franklin
+7112,TAS,6,regional,South East,603,Cygnet
+7113,TAS,6,regional,South East,603,Huonville - Franklin
+7116,TAS,6,regional,South East,603,Geeveston - Dover
+7117,TAS,6,regional,South East,603,Geeveston - Dover
+7119,TAS,6,regional,South East,603,Southern Midlands
+7120,TAS,6,regional,South East,603,Southern Midlands
+7139,TAS,6,regional,South East,603,Wilderness - East
+7140,TAS,6,regional,Hobart,601,New Norfolk
+7150,TAS,6,regional,South East,603,Bruny Island - Kettering
+7155,TAS,6,regional,South East,603,Bruny Island - Kettering
+7162,TAS,6,regional,South East,603,Bruny Island - Kettering
+7163,TAS,6,regional,South East,603,Bruny Island - Kettering
+7170,TAS,6,regional,Hobart,601,Cambridge
+7171,TAS,6,regional,Hobart,601,Sorell - Richmond
+7172,TAS,6,regional,Hobart,601,Sorell - Richmond
+7173,TAS,6,regional,Hobart,601,Dodges Ferry - Lewisham
+7174,TAS,6,regional,Hobart,601,Dodges Ferry - Lewisham
+7175,TAS,6,regional,Hobart,601,Dodges Ferry - Lewisham
+7176,TAS,6,regional,Hobart,601,Dodges Ferry - Lewisham
+7177,TAS,6,regional,Hobart,601,Dodges Ferry - Lewisham
+7178,TAS,6,regional,South East,603,Forestier - Tasman
+7179,TAS,6,regional,South East,603,Forestier - Tasman
+7180,TAS,6,regional,South East,603,Forestier - Tasman
+7182,TAS,6,regional,South East,603,Forestier - Tasman
+7183,TAS,6,regional,South East,603,Forestier - Tasman
+7184,TAS,6,regional,South East,603,Forestier - Tasman
+7185,TAS,6,regional,South East,603,Forestier - Tasman
+7186,TAS,6,regional,South East,603,Forestier - Tasman
+7187,TAS,6,regional,South East,603,Forestier - Tasman
+7190,TAS,6,regional,South East,603,Triabunna - Bicheno
+7209,TAS,6,regional,Launceston and North East,602,Northern Midlands
+7210,TAS,6,regional,Launceston and North East,602,Northern Midlands
+7211,TAS,6,regional,Launceston and North East,602,Northern Midlands
+7212,TAS,6,regional,Launceston and North East,602,Perth - Evandale
+7213,TAS,6,regional,Launceston and North East,602,Northern Midlands
+7214,TAS,6,regional,Launceston and North East,602,St Helens - Scamander
+7215,TAS,6,regional,Launceston and North East,602,St Helens - Scamander
+7216,TAS,6,regional,Launceston and North East,602,St Helens - Scamander
+7248,TAS,6,regional,Launceston and North East,602,Newnham - Mayfield
+7249,TAS,6,regional,Launceston and North East,602,Kings Meadows - Punchbowl
+7250,TAS,6,regional,Launceston and North East,602,Riverside
+7252,TAS,6,regional,Launceston and North East,602,George Town
+7253,TAS,6,regional,Launceston and North East,602,George Town
+7254,TAS,6,regional,Launceston and North East,602,Dilston - Lilydale
+7255,TAS,6,regional,Launceston and North East,602,Flinders and Cape Barren Islands
+7256,TAS,6,regional,West and North West,604,King Island
+7257,TAS,6,regional,Launceston and North East,602,Flinders and Cape Barren Islands
+7258,TAS,6,regional,Launceston and North East,602,Youngtown - Relbia
+7259,TAS,6,regional,Launceston and North East,602,Dilston - Lilydale
+7260,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7261,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7262,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7263,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7264,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7265,TAS,6,regional,Launceston and North East,602,Scottsdale - Bridport
+7267,TAS,6,regional,Launceston and North East,602,Dilston - Lilydale
+7268,TAS,6,regional,Launceston and North East,602,Dilston - Lilydale
+7270,TAS,6,regional,Launceston and North East,602,Beauty Point - Beaconsfield
+7275,TAS,6,regional,Launceston and North East,602,Grindelwald - Lanena
+7276,TAS,6,regional,Launceston and North East,602,Grindelwald - Lanena
+7277,TAS,6,regional,Launceston and North East,602,Legana
+7290,TAS,6,regional,Launceston and North East,602,Hadspen - Carrick
+7291,TAS,6,regional,Launceston and North East,602,Hadspen - Carrick
+7292,TAS,6,regional,Launceston and North East,602,Westbury
+7300,TAS,6,regional,Launceston and North East,602,Perth - Evandale
+7301,TAS,6,regional,Launceston and North East,602,Longford
+7302,TAS,6,regional,Launceston and North East,602,Northern Midlands
+7303,TAS,6,regional,Launceston and North East,602,Westbury
+7304,TAS,6,regional,Launceston and North East,602,Deloraine
+7305,TAS,6,regional,West and North West,604,Sheffield - Railton
+7306,TAS,6,regional,West and North West,604,Sheffield - Railton
+7307,TAS,6,regional,West and North West,604,Port Sorell
+7310,TAS,6,regional,West and North West,604,Devonport
+7315,TAS,6,regional,West and North West,604,Ulverstone
+7316,TAS,6,regional,West and North West,604,Penguin - Sulphur Creek
+7320,TAS,6,regional,West and North West,604,Parklands - Camdale
+7321,TAS,6,regional,West and North West,604,Burnie - Ulverstone Surrounds
+7322,TAS,6,regional,West and North West,604,Somerset
+7325,TAS,6,regional,West and North West,604,Wynyard
+7330,TAS,6,regional,West and North West,604,Smithton
+7331,TAS,6,regional,West and North West,604,North West
+7466,TAS,6,regional,West and North West,604,West Coast (Tas.)
+7467,TAS,6,regional,West and North West,604,West Coast (Tas.)
+7468,TAS,6,regional,West and North West,604,West Coast (Tas.)
+7469,TAS,6,regional,West and North West,604,West Coast (Tas.)
+7470,TAS,6,regional,West and North West,604,West Coast (Tas.)
